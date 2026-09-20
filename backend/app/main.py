@@ -73,17 +73,17 @@ app.include_router(reports.router)
 
 
 
-@app.get("/api/health")
+@app.api_route("/api/health", methods=["GET", "HEAD"])
 def health_check():
     return {
         "status": "ok",
         "service": "HazardShield AI Backend",
-        "version": "1.0.0-prototype",
-        "note": "Prototype Rule-Based Engine",
+        "version": "3.0.0-production",
+        "note": "AI/ML Risk Intelligence & Decision Support Platform",
     }
 
 
-@app.get("/api/health/db")
+@app.api_route("/api/health/db", methods=["GET", "HEAD"])
 def health_db():
     try:
         db_gen = get_db()
@@ -94,13 +94,14 @@ def health_db():
         return {"status": "error", "message": str(e)}
 
 
-@app.get("/")
+@app.api_route("/", methods=["GET", "HEAD"])
 def root():
     return {
         "message": "HAZARDSHIELD AI API is running",
         "docs": "/docs",
         "health": "/api/health",
     }
+
 
 
 if __name__ == "__main__":
