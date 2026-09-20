@@ -3,8 +3,12 @@ import logging
 import math
 import pandas as pd
 import numpy as np
-import geopandas as gpd
+try:
+    import geopandas as gpd
+except ImportError:
+    gpd = None
 from shapely.geometry import Point
+
 from pathlib import Path
 from typing import Dict, Any, List, Tuple, Optional
 from app.services.district_reconciler import normalize_string, get_canonical_state, get_canonical_district

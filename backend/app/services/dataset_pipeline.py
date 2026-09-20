@@ -3,8 +3,12 @@ import json
 import logging
 import pandas as pd
 import numpy as np
-import geopandas as gpd
+try:
+    import geopandas as gpd
+except ImportError:
+    gpd = None
 from pathlib import Path
+
 from typing import Dict, Any, Optional, Union, Tuple
 from app.services.data_loader import DataLoader
 from app.services.data_cleaner import DataCleaner

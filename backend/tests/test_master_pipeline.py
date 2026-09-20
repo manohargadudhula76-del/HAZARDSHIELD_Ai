@@ -1,8 +1,12 @@
 import pytest
 import pandas as pd
 import numpy as np
-import geopandas as gpd
+try:
+    import geopandas as gpd
+except ImportError:
+    gpd = None
 from shapely.geometry import Point, Polygon
+
 from app.services.district_reconciler import DistrictReconciler, normalize_string, get_canonical_state, get_canonical_district
 from app.services.master_aggregator import MasterAggregator, haversine_distance_km, find_column
 from app.services.dataset_pipeline import DatasetPipeline
