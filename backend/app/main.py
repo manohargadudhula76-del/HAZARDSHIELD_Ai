@@ -36,7 +36,7 @@ app = FastAPI(
     redoc_url="/redoc",
 )
 
-# CORS - allow Vite dev server and Netlify frontend
+# CORS - allow Vite dev server, Render, and Netlify frontend
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
@@ -44,6 +44,7 @@ app.add_middleware(
         "http://localhost:3000",
         "http://127.0.0.1:5173",
         "http://127.0.0.1:3000",
+        "https://hazardsheildai.netlify.app",
         "https://hazardshieldai.netlify.app",
         "*"
     ],
@@ -51,6 +52,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 # Register all routers (Phase 1, Phase 2, & Phase 3)
 app.include_router(habitations.router)
