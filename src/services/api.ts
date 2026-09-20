@@ -17,8 +17,16 @@ import { mockSafeHavens } from '../data/safeHavens';
 import { mockCarryingCapacityData } from '../data/carryingCapacity';
 
 
-export const API_BASE_URL =
-  (import.meta.env.VITE_API_BASE_URL as string) || 'http://localhost:8000/api';
+const getInitialApiUrl = (): string => {
+  const envUrl = (import.meta.env.VITE_API_BASE_URL as string) || (import.meta.env.VITE_API_URL as string);
+  if (envUrl) {
+    return envUrl.endsWith('/api') ? envUrl : `${envUrl.replace(/\/$/, '')}/api`;
+  }
+  return 'http://localhost:8000/api';
+};
+
+export const API_BASE_URL = getInitialApiUrl();
+
 
 export interface BackendMapItem {
   id: number | string;
