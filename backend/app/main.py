@@ -28,6 +28,14 @@ from app.routes import (
 # Create all tables on startup
 Base.metadata.create_all(bind=engine)
 
+# Auto-populate demo dataset if database is empty/new
+try:
+    from app.seed import seed_db
+    seed_db(force=False)
+except Exception as _seed_err:
+    print(f"Auto-seed notice: {_seed_err}")
+
+
 app = FastAPI(
     title="HazardShield AI Backend",
     description="Smart India Hackathon 2026 - Disaster Risk Intelligence & Decision Support API (Phase 3)",
