@@ -1,0 +1,5438 @@
+{
+  "reconciliation_summary": {
+    "census_district_count": 640,
+    "gis_district_count": 733,
+    "exact_matches_count": 0,
+    "alias_matches_count": 579,
+    "total_matched_count": 579,
+    "unmatched_census_count": 61,
+    "unmatched_gis_count": 160,
+    "census_gis_match_rate_pct": 90.47
+  },
+  "exact_matches": [],
+  "alias_matches": [
+    {
+      "district_id": "DIST_IND_001",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Kupwara",
+      "gis_state": "JK",
+      "gis_district": "Kupwara",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_002",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Badgam",
+      "gis_state": "JK",
+      "gis_district": "Budgam",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_003",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Leh(Ladakh)",
+      "gis_state": "LK",
+      "gis_district": "Leh Ladakh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_004",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Kargil",
+      "gis_state": "LK",
+      "gis_district": "Kargil",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_005",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Punch",
+      "gis_state": "JK",
+      "gis_district": "Poonch",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_006",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Rajouri",
+      "gis_state": "JK",
+      "gis_district": "Rajouri",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_007",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Kathua",
+      "gis_state": "JK",
+      "gis_district": "Kathua",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_008",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Baramula",
+      "gis_state": "JK",
+      "gis_district": "Baramulla",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_009",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Bandipore",
+      "gis_state": "JK",
+      "gis_district": "Bandipora",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_010",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Srinagar",
+      "gis_state": "JK",
+      "gis_district": "Srinagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_011",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Ganderbal",
+      "gis_state": "JK",
+      "gis_district": "Ganderbal",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_012",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Pulwama",
+      "gis_state": "JK",
+      "gis_district": "Pulwama",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_013",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Shupiyan",
+      "gis_state": "JK",
+      "gis_district": "Shopian",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_014",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Anantnag",
+      "gis_state": "JK",
+      "gis_district": "Anantnag",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_015",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Kulgam",
+      "gis_state": "JK",
+      "gis_district": "Kulgam",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_016",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Doda",
+      "gis_state": "JK",
+      "gis_district": "Doda",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_017",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Ramban",
+      "gis_state": "JK",
+      "gis_district": "Ramban",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_018",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Kishtwar",
+      "gis_state": "JK",
+      "gis_district": "Kishtwar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_019",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Udhampur",
+      "gis_state": "JK",
+      "gis_district": "Udhampur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_020",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Reasi",
+      "gis_state": "JK",
+      "gis_district": "Reasi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_021",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Jammu",
+      "gis_state": "JK",
+      "gis_district": "Jammu",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_022",
+      "state": "JAMMU AND KASHMIR",
+      "district": "Samba",
+      "gis_state": "JK",
+      "gis_district": "Samba",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_023",
+      "state": "HIMACHAL PRADESH",
+      "district": "Chamba",
+      "gis_state": "HP",
+      "gis_district": "Chamba",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_024",
+      "state": "HIMACHAL PRADESH",
+      "district": "Kangra",
+      "gis_state": "HP",
+      "gis_district": "Kangra",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_025",
+      "state": "HIMACHAL PRADESH",
+      "district": "Lahul AND Spiti",
+      "gis_state": "HP",
+      "gis_district": "Lahul And Spiti",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_026",
+      "state": "HIMACHAL PRADESH",
+      "district": "Kullu",
+      "gis_state": "HP",
+      "gis_district": "Kullu",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_027",
+      "state": "HIMACHAL PRADESH",
+      "district": "Mandi",
+      "gis_state": "HP",
+      "gis_district": "Mandi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_028",
+      "state": "HIMACHAL PRADESH",
+      "district": "Hamirpur",
+      "gis_state": "HP",
+      "gis_district": "Hamirpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_029",
+      "state": "HIMACHAL PRADESH",
+      "district": "Una",
+      "gis_state": "HP",
+      "gis_district": "Una",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_030",
+      "state": "HIMACHAL PRADESH",
+      "district": "Bilaspur",
+      "gis_state": "CG",
+      "gis_district": "Bilaspur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_031",
+      "state": "HIMACHAL PRADESH",
+      "district": "Solan",
+      "gis_state": "HP",
+      "gis_district": "Solan",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_032",
+      "state": "HIMACHAL PRADESH",
+      "district": "Sirmaur",
+      "gis_state": "HP",
+      "gis_district": "Sirmaur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_033",
+      "state": "HIMACHAL PRADESH",
+      "district": "Shimla",
+      "gis_state": "HP",
+      "gis_district": "Shimla",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_034",
+      "state": "HIMACHAL PRADESH",
+      "district": "Kinnaur",
+      "gis_state": "HP",
+      "gis_district": "Kinnaur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_035",
+      "state": "PUNJAB",
+      "district": "Gurdaspur",
+      "gis_state": "PB",
+      "gis_district": "Gurdaspur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_036",
+      "state": "PUNJAB",
+      "district": "Kapurthala",
+      "gis_state": "PB",
+      "gis_district": "Kapurthala",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_037",
+      "state": "PUNJAB",
+      "district": "Jalandhar",
+      "gis_state": "PB",
+      "gis_district": "Jalandhar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_038",
+      "state": "PUNJAB",
+      "district": "Hoshiarpur",
+      "gis_state": "PB",
+      "gis_district": "Hoshiarpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_039",
+      "state": "PUNJAB",
+      "district": "Shahid Bhagat Singh Nagar",
+      "gis_state": "PB",
+      "gis_district": "Shahid Bhagat Singh Nagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_040",
+      "state": "PUNJAB",
+      "district": "Fatehgarh Sahib",
+      "gis_state": "PB",
+      "gis_district": "Fatehgarh Sahib",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_041",
+      "state": "PUNJAB",
+      "district": "Ludhiana",
+      "gis_state": "PB",
+      "gis_district": "Ludhiana",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_042",
+      "state": "PUNJAB",
+      "district": "Moga",
+      "gis_state": "PB",
+      "gis_district": "Moga",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_043",
+      "state": "PUNJAB",
+      "district": "Firozpur",
+      "gis_state": "PB",
+      "gis_district": "Ferozepur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_044",
+      "state": "PUNJAB",
+      "district": "Muktsar",
+      "gis_state": "PB",
+      "gis_district": "Sri Muktsar Sahib",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_045",
+      "state": "PUNJAB",
+      "district": "Faridkot",
+      "gis_state": "PB",
+      "gis_district": "Faridkot",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_046",
+      "state": "PUNJAB",
+      "district": "Bathinda",
+      "gis_state": "PB",
+      "gis_district": "Bathinda",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_047",
+      "state": "PUNJAB",
+      "district": "Mansa",
+      "gis_state": "PB",
+      "gis_district": "Mansa",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_048",
+      "state": "PUNJAB",
+      "district": "Patiala",
+      "gis_state": "PB",
+      "gis_district": "Patiala",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_049",
+      "state": "PUNJAB",
+      "district": "Amritsar",
+      "gis_state": "PB",
+      "gis_district": "Amritsar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_050",
+      "state": "PUNJAB",
+      "district": "Tarn Taran",
+      "gis_state": "PB",
+      "gis_district": "Tarn Taran",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_051",
+      "state": "PUNJAB",
+      "district": "Rupnagar",
+      "gis_state": "PB",
+      "gis_district": "Rupnagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_053",
+      "state": "PUNJAB",
+      "district": "Sangrur",
+      "gis_state": "PB",
+      "gis_district": "Sangrur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_054",
+      "state": "PUNJAB",
+      "district": "Barnala",
+      "gis_state": "PB",
+      "gis_district": "Barnala",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_055",
+      "state": "CHANDIGARH",
+      "district": "Chandigarh",
+      "gis_state": "CH",
+      "gis_district": "Chandigarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_057",
+      "state": "UTTARAKHAND",
+      "district": "Chamoli",
+      "gis_state": "UK",
+      "gis_district": "Chamoli",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_059",
+      "state": "UTTARAKHAND",
+      "district": "Tehri Garhwal",
+      "gis_state": "UK",
+      "gis_district": "Tehri Garhwal",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_060",
+      "state": "UTTARAKHAND",
+      "district": "Dehradun",
+      "gis_state": "UK",
+      "gis_district": "Dehradun",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_061",
+      "state": "UTTARAKHAND",
+      "district": "Garhwal",
+      "gis_state": "UK",
+      "gis_district": "Pauri Garhwal",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_062",
+      "state": "UTTARAKHAND",
+      "district": "Pithoragarh",
+      "gis_state": "UK",
+      "gis_district": "Pithoragarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_063",
+      "state": "UTTARAKHAND",
+      "district": "Bageshwar",
+      "gis_state": "UK",
+      "gis_district": "Bageshwar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_064",
+      "state": "UTTARAKHAND",
+      "district": "Almora",
+      "gis_state": "UK",
+      "gis_district": "Almora",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_065",
+      "state": "UTTARAKHAND",
+      "district": "Champawat",
+      "gis_state": "UK",
+      "gis_district": "Champawat",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_066",
+      "state": "UTTARAKHAND",
+      "district": "Nainital",
+      "gis_state": "UK",
+      "gis_district": "Nainital",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_068",
+      "state": "UTTARAKHAND",
+      "district": "Hardwar",
+      "gis_state": "UK",
+      "gis_district": "Haridwar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_069",
+      "state": "HARYANA",
+      "district": "Panchkula",
+      "gis_state": "HR",
+      "gis_district": "Panchkula",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_070",
+      "state": "HARYANA",
+      "district": "Ambala",
+      "gis_state": "HR",
+      "gis_district": "Ambala",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_071",
+      "state": "HARYANA",
+      "district": "Yamunanagar",
+      "gis_state": "HR",
+      "gis_district": "Yamunanagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_072",
+      "state": "HARYANA",
+      "district": "Kurukshetra",
+      "gis_state": "HR",
+      "gis_district": "Kurukshetra",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_073",
+      "state": "HARYANA",
+      "district": "Kaithal",
+      "gis_state": "HR",
+      "gis_district": "Kaithal",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_074",
+      "state": "HARYANA",
+      "district": "Karnal",
+      "gis_state": "HR",
+      "gis_district": "Karnal",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_075",
+      "state": "HARYANA",
+      "district": "Panipat",
+      "gis_state": "HR",
+      "gis_district": "Panipat",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_076",
+      "state": "HARYANA",
+      "district": "Sonipat",
+      "gis_state": "HR",
+      "gis_district": "Sonipat",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_077",
+      "state": "HARYANA",
+      "district": "Jind",
+      "gis_state": "HR",
+      "gis_district": "Jind",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_078",
+      "state": "HARYANA",
+      "district": "Fatehabad",
+      "gis_state": "HR",
+      "gis_district": "Fatehabad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_079",
+      "state": "HARYANA",
+      "district": "Sirsa",
+      "gis_state": "HR",
+      "gis_district": "Sirsa",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_080",
+      "state": "HARYANA",
+      "district": "Hisar",
+      "gis_state": "HR",
+      "gis_district": "Hisar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_081",
+      "state": "HARYANA",
+      "district": "Bhiwani",
+      "gis_state": "HR",
+      "gis_district": "Bhiwani",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_082",
+      "state": "HARYANA",
+      "district": "Rohtak",
+      "gis_state": "HR",
+      "gis_district": "Rohtak",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_083",
+      "state": "HARYANA",
+      "district": "Jhajjar",
+      "gis_state": "HR",
+      "gis_district": "Jhajjar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_084",
+      "state": "HARYANA",
+      "district": "Mahendragarh",
+      "gis_state": "HR",
+      "gis_district": "Mahendragarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_085",
+      "state": "HARYANA",
+      "district": "Rewari",
+      "gis_state": "HR",
+      "gis_district": "Rewari",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_086",
+      "state": "HARYANA",
+      "district": "Gurgaon",
+      "gis_state": "HR",
+      "gis_district": "Gurugram",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_087",
+      "state": "HARYANA",
+      "district": "Mewat",
+      "gis_state": "HR",
+      "gis_district": "Nuh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_088",
+      "state": "HARYANA",
+      "district": "Faridabad",
+      "gis_state": "HR",
+      "gis_district": "Faridabad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_089",
+      "state": "HARYANA",
+      "district": "Palwal",
+      "gis_state": "HR",
+      "gis_district": "Palwal",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_090",
+      "state": "NCT OF DELHI",
+      "district": "North West",
+      "gis_state": "DL",
+      "gis_district": "North West",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_091",
+      "state": "NCT OF DELHI",
+      "district": "North",
+      "gis_state": "DL",
+      "gis_district": "North",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_092",
+      "state": "NCT OF DELHI",
+      "district": "North East",
+      "gis_state": "DL",
+      "gis_district": "North East",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_093",
+      "state": "NCT OF DELHI",
+      "district": "East",
+      "gis_state": "DL",
+      "gis_district": "East",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_094",
+      "state": "NCT OF DELHI",
+      "district": "New Delhi",
+      "gis_state": "DL",
+      "gis_district": "New Delhi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_095",
+      "state": "NCT OF DELHI",
+      "district": "Central",
+      "gis_state": "DL",
+      "gis_district": "Central",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_096",
+      "state": "NCT OF DELHI",
+      "district": "West",
+      "gis_state": "DL",
+      "gis_district": "West",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_097",
+      "state": "NCT OF DELHI",
+      "district": "South West",
+      "gis_state": "DL",
+      "gis_district": "South West",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_098",
+      "state": "NCT OF DELHI",
+      "district": "South",
+      "gis_state": "DL",
+      "gis_district": "South",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_099",
+      "state": "RAJASTHAN",
+      "district": "Ganganagar",
+      "gis_state": "RJ",
+      "gis_district": "Ganganagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_100",
+      "state": "RAJASTHAN",
+      "district": "Hanumangarh",
+      "gis_state": "RJ",
+      "gis_district": "Hanumangarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_101",
+      "state": "RAJASTHAN",
+      "district": "Bikaner",
+      "gis_state": "RJ",
+      "gis_district": "Bikaner",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_102",
+      "state": "RAJASTHAN",
+      "district": "Churu",
+      "gis_state": "RJ",
+      "gis_district": "Churu",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_103",
+      "state": "RAJASTHAN",
+      "district": "Jhunjhunun",
+      "gis_state": "RJ",
+      "gis_district": "Jhunjhunu",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_104",
+      "state": "RAJASTHAN",
+      "district": "Alwar",
+      "gis_state": "RJ",
+      "gis_district": "Alwar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_105",
+      "state": "RAJASTHAN",
+      "district": "Bharatpur",
+      "gis_state": "RJ",
+      "gis_district": "Bharatpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_106",
+      "state": "RAJASTHAN",
+      "district": "Dhaulpur",
+      "gis_state": "RJ",
+      "gis_district": "Dholpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_107",
+      "state": "RAJASTHAN",
+      "district": "Karauli",
+      "gis_state": "RJ",
+      "gis_district": "Karauli",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_108",
+      "state": "RAJASTHAN",
+      "district": "Sawai Madhopur",
+      "gis_state": "RJ",
+      "gis_district": "Sawai Madhopur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_109",
+      "state": "RAJASTHAN",
+      "district": "Dausa",
+      "gis_state": "RJ",
+      "gis_district": "Dausa",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_110",
+      "state": "RAJASTHAN",
+      "district": "Jaipur",
+      "gis_state": "RJ",
+      "gis_district": "Jaipur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_111",
+      "state": "RAJASTHAN",
+      "district": "Sikar",
+      "gis_state": "RJ",
+      "gis_district": "Sikar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_112",
+      "state": "RAJASTHAN",
+      "district": "Nagaur",
+      "gis_state": "RJ",
+      "gis_district": "Nagaur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_113",
+      "state": "RAJASTHAN",
+      "district": "Jodhpur",
+      "gis_state": "RJ",
+      "gis_district": "Jodhpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_114",
+      "state": "RAJASTHAN",
+      "district": "Jaisalmer",
+      "gis_state": "RJ",
+      "gis_district": "Jaisalmer",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_115",
+      "state": "RAJASTHAN",
+      "district": "Barmer",
+      "gis_state": "RJ",
+      "gis_district": "Barmer",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_116",
+      "state": "RAJASTHAN",
+      "district": "Jalor",
+      "gis_state": "RJ",
+      "gis_district": "Jalore",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_117",
+      "state": "RAJASTHAN",
+      "district": "Sirohi",
+      "gis_state": "RJ",
+      "gis_district": "Sirohi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_118",
+      "state": "RAJASTHAN",
+      "district": "Pali",
+      "gis_state": "RJ",
+      "gis_district": "Pali",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_119",
+      "state": "RAJASTHAN",
+      "district": "Ajmer",
+      "gis_state": "RJ",
+      "gis_district": "Ajmer",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_120",
+      "state": "RAJASTHAN",
+      "district": "Tonk",
+      "gis_state": "RJ",
+      "gis_district": "Tonk",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_121",
+      "state": "RAJASTHAN",
+      "district": "Bundi",
+      "gis_state": "RJ",
+      "gis_district": "Bundi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_122",
+      "state": "RAJASTHAN",
+      "district": "Bhilwara",
+      "gis_state": "RJ",
+      "gis_district": "Bhilwara",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_123",
+      "state": "RAJASTHAN",
+      "district": "Rajsamand",
+      "gis_state": "RJ",
+      "gis_district": "Rajsamand",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_124",
+      "state": "RAJASTHAN",
+      "district": "Dungarpur",
+      "gis_state": "RJ",
+      "gis_district": "Dungarpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_125",
+      "state": "RAJASTHAN",
+      "district": "Banswara",
+      "gis_state": "RJ",
+      "gis_district": "Banswara",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_126",
+      "state": "RAJASTHAN",
+      "district": "Chittaurgarh",
+      "gis_state": "RJ",
+      "gis_district": "Chittorgarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_127",
+      "state": "RAJASTHAN",
+      "district": "Kota",
+      "gis_state": "RJ",
+      "gis_district": "Kota",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_128",
+      "state": "RAJASTHAN",
+      "district": "Baran",
+      "gis_state": "RJ",
+      "gis_district": "Baran",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_129",
+      "state": "RAJASTHAN",
+      "district": "Jhalawar",
+      "gis_state": "RJ",
+      "gis_district": "Jhalawar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_130",
+      "state": "RAJASTHAN",
+      "district": "Udaipur",
+      "gis_state": "RJ",
+      "gis_district": "Udaipur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_131",
+      "state": "RAJASTHAN",
+      "district": "Pratapgarh",
+      "gis_state": "RJ",
+      "gis_district": "Pratapgarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_132",
+      "state": "UTTAR PRADESH",
+      "district": "Saharanpur",
+      "gis_state": "UP",
+      "gis_district": "Saharanpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_133",
+      "state": "UTTAR PRADESH",
+      "district": "Muzaffarnagar",
+      "gis_state": "UP",
+      "gis_district": "Muzaffarnagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_134",
+      "state": "UTTAR PRADESH",
+      "district": "Bijnor",
+      "gis_state": "UP",
+      "gis_district": "Bijnor",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_135",
+      "state": "UTTAR PRADESH",
+      "district": "Moradabad",
+      "gis_state": "UP",
+      "gis_district": "Moradabad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_136",
+      "state": "UTTAR PRADESH",
+      "district": "Rampur",
+      "gis_state": "UP",
+      "gis_district": "Rampur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_137",
+      "state": "UTTAR PRADESH",
+      "district": "Jyotiba Phule Nagar",
+      "gis_state": "UP",
+      "gis_district": "Amroha",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_138",
+      "state": "UTTAR PRADESH",
+      "district": "Meerut",
+      "gis_state": "UP",
+      "gis_district": "Meerut",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_139",
+      "state": "UTTAR PRADESH",
+      "district": "Baghpat",
+      "gis_state": "UP",
+      "gis_district": "Baghpat",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_140",
+      "state": "UTTAR PRADESH",
+      "district": "Ghaziabad",
+      "gis_state": "UP",
+      "gis_district": "Ghaziabad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_141",
+      "state": "UTTAR PRADESH",
+      "district": "Gautam Buddha Nagar",
+      "gis_state": "UP",
+      "gis_district": "Gautam Buddha Nagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_142",
+      "state": "UTTAR PRADESH",
+      "district": "Bulandshahr",
+      "gis_state": "UP",
+      "gis_district": "Bulandshahr",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_143",
+      "state": "UTTAR PRADESH",
+      "district": "Aligarh",
+      "gis_state": "UP",
+      "gis_district": "Aligarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_144",
+      "state": "UTTAR PRADESH",
+      "district": "Mahamaya Nagar",
+      "gis_state": "UP",
+      "gis_district": "Hathras",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_145",
+      "state": "UTTAR PRADESH",
+      "district": "Mathura",
+      "gis_state": "UP",
+      "gis_district": "Mathura",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_146",
+      "state": "UTTAR PRADESH",
+      "district": "Agra",
+      "gis_state": "UP",
+      "gis_district": "Agra",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_147",
+      "state": "UTTAR PRADESH",
+      "district": "Firozabad",
+      "gis_state": "UP",
+      "gis_district": "Firozabad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_148",
+      "state": "UTTAR PRADESH",
+      "district": "Mainpuri",
+      "gis_state": "UP",
+      "gis_district": "Mainpuri",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_149",
+      "state": "UTTAR PRADESH",
+      "district": "Budaun",
+      "gis_state": "UP",
+      "gis_district": "Budaun",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_150",
+      "state": "UTTAR PRADESH",
+      "district": "Bareilly",
+      "gis_state": "UP",
+      "gis_district": "Bareilly",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_151",
+      "state": "UTTAR PRADESH",
+      "district": "Pilibhit",
+      "gis_state": "UP",
+      "gis_district": "Pilibhit",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_152",
+      "state": "UTTAR PRADESH",
+      "district": "Shahjahanpur",
+      "gis_state": "UP",
+      "gis_district": "Shahjahanpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_153",
+      "state": "UTTAR PRADESH",
+      "district": "Kheri",
+      "gis_state": "UP",
+      "gis_district": "Kheri",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_154",
+      "state": "UTTAR PRADESH",
+      "district": "Sitapur",
+      "gis_state": "UP",
+      "gis_district": "Sitapur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_155",
+      "state": "UTTAR PRADESH",
+      "district": "Hardoi",
+      "gis_state": "UP",
+      "gis_district": "Hardoi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_156",
+      "state": "UTTAR PRADESH",
+      "district": "Unnao",
+      "gis_state": "UP",
+      "gis_district": "Unnao",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_157",
+      "state": "UTTAR PRADESH",
+      "district": "Lucknow",
+      "gis_state": "UP",
+      "gis_district": "Lucknow",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_158",
+      "state": "UTTAR PRADESH",
+      "district": "Rae Bareli",
+      "gis_state": "UP",
+      "gis_district": "Rae Bareli",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_159",
+      "state": "UTTAR PRADESH",
+      "district": "Farrukhabad",
+      "gis_state": "UP",
+      "gis_district": "Farrukhabad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_160",
+      "state": "UTTAR PRADESH",
+      "district": "Kannauj",
+      "gis_state": "UP",
+      "gis_district": "Kannauj",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_161",
+      "state": "UTTAR PRADESH",
+      "district": "Etawah",
+      "gis_state": "UP",
+      "gis_district": "Etawah",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_162",
+      "state": "UTTAR PRADESH",
+      "district": "Auraiya",
+      "gis_state": "UP",
+      "gis_district": "Auraiya",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_163",
+      "state": "UTTAR PRADESH",
+      "district": "Kanpur Dehat",
+      "gis_state": "UP",
+      "gis_district": "Kanpur Dehat",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_164",
+      "state": "UTTAR PRADESH",
+      "district": "Kanpur Nagar",
+      "gis_state": "UP",
+      "gis_district": "Kanpur Nagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_165",
+      "state": "UTTAR PRADESH",
+      "district": "Jalaun",
+      "gis_state": "UP",
+      "gis_district": "Jalaun",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_166",
+      "state": "UTTAR PRADESH",
+      "district": "Jhansi",
+      "gis_state": "UP",
+      "gis_district": "Jhansi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_167",
+      "state": "UTTAR PRADESH",
+      "district": "Lalitpur",
+      "gis_state": "UP",
+      "gis_district": "Lalitpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_168",
+      "state": "UTTAR PRADESH",
+      "district": "Hamirpur",
+      "gis_state": "HP",
+      "gis_district": "Hamirpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_169",
+      "state": "UTTAR PRADESH",
+      "district": "Mahoba",
+      "gis_state": "UP",
+      "gis_district": "Mahoba",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_170",
+      "state": "UTTAR PRADESH",
+      "district": "Banda",
+      "gis_state": "UP",
+      "gis_district": "Banda",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_171",
+      "state": "UTTAR PRADESH",
+      "district": "Chitrakoot",
+      "gis_state": "UP",
+      "gis_district": "Chitrakoot",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_172",
+      "state": "UTTAR PRADESH",
+      "district": "Fatehpur",
+      "gis_state": "UP",
+      "gis_district": "Fatehpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_173",
+      "state": "UTTAR PRADESH",
+      "district": "Pratapgarh",
+      "gis_state": "RJ",
+      "gis_district": "Pratapgarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_174",
+      "state": "UTTAR PRADESH",
+      "district": "Kaushambi",
+      "gis_state": "UP",
+      "gis_district": "Kaushambi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_175",
+      "state": "UTTAR PRADESH",
+      "district": "Allahabad",
+      "gis_state": "UP",
+      "gis_district": "Prayagraj",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_176",
+      "state": "UTTAR PRADESH",
+      "district": "Bara Banki",
+      "gis_state": "UP",
+      "gis_district": "Barabanki",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_177",
+      "state": "UTTAR PRADESH",
+      "district": "Faizabad",
+      "gis_state": "UP",
+      "gis_district": "Ayodhya",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_178",
+      "state": "UTTAR PRADESH",
+      "district": "Ambedkar Nagar",
+      "gis_state": "UP",
+      "gis_district": "Ambedkar Nagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_179",
+      "state": "UTTAR PRADESH",
+      "district": "Sultanpur",
+      "gis_state": "UP",
+      "gis_district": "Sultanpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_180",
+      "state": "UTTAR PRADESH",
+      "district": "Bahraich",
+      "gis_state": "UP",
+      "gis_district": "Bahraich",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_181",
+      "state": "UTTAR PRADESH",
+      "district": "Shrawasti",
+      "gis_state": "UP",
+      "gis_district": "Shravasti",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_182",
+      "state": "UTTAR PRADESH",
+      "district": "Balrampur",
+      "gis_state": "CG",
+      "gis_district": "Balrampur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_183",
+      "state": "UTTAR PRADESH",
+      "district": "Gonda",
+      "gis_state": "UP",
+      "gis_district": "Gonda",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_184",
+      "state": "UTTAR PRADESH",
+      "district": "Siddharthnagar",
+      "gis_state": "UP",
+      "gis_district": "Siddharth Nagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_185",
+      "state": "UTTAR PRADESH",
+      "district": "Basti",
+      "gis_state": "UP",
+      "gis_district": "Basti",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_187",
+      "state": "UTTAR PRADESH",
+      "district": "Mahrajganj",
+      "gis_state": "UP",
+      "gis_district": "Maharajganj",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_188",
+      "state": "UTTAR PRADESH",
+      "district": "Gorakhpur",
+      "gis_state": "UP",
+      "gis_district": "Gorakhpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_190",
+      "state": "UTTAR PRADESH",
+      "district": "Deoria",
+      "gis_state": "UP",
+      "gis_district": "Deoria",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_191",
+      "state": "UTTAR PRADESH",
+      "district": "Azamgarh",
+      "gis_state": "UP",
+      "gis_district": "Azamgarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_192",
+      "state": "UTTAR PRADESH",
+      "district": "Mau",
+      "gis_state": "UP",
+      "gis_district": "Mau",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_193",
+      "state": "UTTAR PRADESH",
+      "district": "Ballia",
+      "gis_state": "UP",
+      "gis_district": "Ballia",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_194",
+      "state": "UTTAR PRADESH",
+      "district": "Jaunpur",
+      "gis_state": "UP",
+      "gis_district": "Jaunpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_195",
+      "state": "UTTAR PRADESH",
+      "district": "Ghazipur",
+      "gis_state": "UP",
+      "gis_district": "Ghazipur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_196",
+      "state": "UTTAR PRADESH",
+      "district": "Chandauli",
+      "gis_state": "UP",
+      "gis_district": "Chandauli",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_197",
+      "state": "UTTAR PRADESH",
+      "district": "Varanasi",
+      "gis_state": "UP",
+      "gis_district": "Varanasi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_198",
+      "state": "UTTAR PRADESH",
+      "district": "Sant Ravidas Nagar (Bhadohi)",
+      "gis_state": "UP",
+      "gis_district": "Bhadohi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_199",
+      "state": "UTTAR PRADESH",
+      "district": "Mirzapur",
+      "gis_state": "UP",
+      "gis_district": "Mirzapur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_200",
+      "state": "UTTAR PRADESH",
+      "district": "Sonbhadra",
+      "gis_state": "UP",
+      "gis_district": "Sonbhadra",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_201",
+      "state": "UTTAR PRADESH",
+      "district": "Etah",
+      "gis_state": "UP",
+      "gis_district": "Etah",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_202",
+      "state": "UTTAR PRADESH",
+      "district": "Kanshiram Nagar",
+      "gis_state": "UP",
+      "gis_district": "Kasganj",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_203",
+      "state": "BIHAR",
+      "district": "Pashchim Champaran",
+      "gis_state": "BR",
+      "gis_district": "Pashchim Champaran",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_204",
+      "state": "BIHAR",
+      "district": "Purba Champaran",
+      "gis_state": "BR",
+      "gis_district": "Purbi Champaran",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_205",
+      "state": "BIHAR",
+      "district": "Sheohar",
+      "gis_state": "BR",
+      "gis_district": "Sheohar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_206",
+      "state": "BIHAR",
+      "district": "Sitamarhi",
+      "gis_state": "BR",
+      "gis_district": "Sitamarhi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_207",
+      "state": "BIHAR",
+      "district": "Madhubani",
+      "gis_state": "BR",
+      "gis_district": "Madhubani",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_208",
+      "state": "BIHAR",
+      "district": "Supaul",
+      "gis_state": "BR",
+      "gis_district": "Supaul",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_209",
+      "state": "BIHAR",
+      "district": "Araria",
+      "gis_state": "BR",
+      "gis_district": "Araria",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_210",
+      "state": "BIHAR",
+      "district": "Kishanganj",
+      "gis_state": "BR",
+      "gis_district": "Kishanganj",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_211",
+      "state": "BIHAR",
+      "district": "Purnia",
+      "gis_state": "BR",
+      "gis_district": "Purnia",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_212",
+      "state": "BIHAR",
+      "district": "Katihar",
+      "gis_state": "BR",
+      "gis_district": "Katihar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_213",
+      "state": "BIHAR",
+      "district": "Madhepura",
+      "gis_state": "BR",
+      "gis_district": "Madhepura",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_214",
+      "state": "BIHAR",
+      "district": "Saharsa",
+      "gis_state": "BR",
+      "gis_district": "Saharsa",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_215",
+      "state": "BIHAR",
+      "district": "Darbhanga",
+      "gis_state": "BR",
+      "gis_district": "Darbhanga",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_216",
+      "state": "BIHAR",
+      "district": "Muzaffarpur",
+      "gis_state": "BR",
+      "gis_district": "Muzaffarpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_217",
+      "state": "BIHAR",
+      "district": "Gopalganj",
+      "gis_state": "BR",
+      "gis_district": "Gopalganj",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_218",
+      "state": "BIHAR",
+      "district": "Siwan",
+      "gis_state": "BR",
+      "gis_district": "Siwan",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_219",
+      "state": "BIHAR",
+      "district": "Saran",
+      "gis_state": "BR",
+      "gis_district": "Saran",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_220",
+      "state": "BIHAR",
+      "district": "Vaishali",
+      "gis_state": "BR",
+      "gis_district": "Vaishali",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_221",
+      "state": "BIHAR",
+      "district": "Samastipur",
+      "gis_state": "BR",
+      "gis_district": "Samastipur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_222",
+      "state": "BIHAR",
+      "district": "Begusarai",
+      "gis_state": "BR",
+      "gis_district": "Begusarai",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_223",
+      "state": "BIHAR",
+      "district": "Khagaria",
+      "gis_state": "BR",
+      "gis_district": "Khagaria",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_224",
+      "state": "BIHAR",
+      "district": "Bhagalpur",
+      "gis_state": "BR",
+      "gis_district": "Bhagalpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_225",
+      "state": "BIHAR",
+      "district": "Banka",
+      "gis_state": "BR",
+      "gis_district": "Banka",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_226",
+      "state": "BIHAR",
+      "district": "Munger",
+      "gis_state": "BR",
+      "gis_district": "Munger",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_227",
+      "state": "BIHAR",
+      "district": "Lakhisarai",
+      "gis_state": "BR",
+      "gis_district": "Lakhisarai",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_228",
+      "state": "BIHAR",
+      "district": "Sheikhpura",
+      "gis_state": "BR",
+      "gis_district": "Sheikhpura",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_229",
+      "state": "BIHAR",
+      "district": "Nalanda",
+      "gis_state": "BR",
+      "gis_district": "Nalanda",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_230",
+      "state": "BIHAR",
+      "district": "Patna",
+      "gis_state": "BR",
+      "gis_district": "Patna",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_231",
+      "state": "BIHAR",
+      "district": "Bhojpur",
+      "gis_state": "BR",
+      "gis_district": "Bhojpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_232",
+      "state": "BIHAR",
+      "district": "Buxar",
+      "gis_state": "BR",
+      "gis_district": "Buxar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_233",
+      "state": "BIHAR",
+      "district": "Kaimur (Bhabua)",
+      "gis_state": "BR",
+      "gis_district": "Kaimur (Bhabua)",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_234",
+      "state": "BIHAR",
+      "district": "Rohtas",
+      "gis_state": "BR",
+      "gis_district": "Rohtas",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_235",
+      "state": "BIHAR",
+      "district": "Aurangabad",
+      "gis_state": "BR",
+      "gis_district": "Aurangabad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_236",
+      "state": "BIHAR",
+      "district": "Gaya",
+      "gis_state": "BR",
+      "gis_district": "Gaya",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_237",
+      "state": "BIHAR",
+      "district": "Nawada",
+      "gis_state": "BR",
+      "gis_district": "Nawada",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_238",
+      "state": "BIHAR",
+      "district": "Jamui",
+      "gis_state": "BR",
+      "gis_district": "Jamui",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_239",
+      "state": "BIHAR",
+      "district": "Jehanabad",
+      "gis_state": "BR",
+      "gis_district": "Jehanabad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_240",
+      "state": "BIHAR",
+      "district": "Arwal",
+      "gis_state": "BR",
+      "gis_district": "Arwal",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_245",
+      "state": "ARUNACHAL PRADESH",
+      "district": "Tawang",
+      "gis_state": "AR",
+      "gis_district": "Tawang",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_246",
+      "state": "ARUNACHAL PRADESH",
+      "district": "West Kameng",
+      "gis_state": "AR",
+      "gis_district": "West Kameng",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_247",
+      "state": "ARUNACHAL PRADESH",
+      "district": "East Kameng",
+      "gis_state": "AR",
+      "gis_district": "East Kameng",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_248",
+      "state": "ARUNACHAL PRADESH",
+      "district": "Papum Pare",
+      "gis_state": "AR",
+      "gis_district": "Papum Pare",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_249",
+      "state": "ARUNACHAL PRADESH",
+      "district": "Upper Subansiri",
+      "gis_state": "AR",
+      "gis_district": "Upper Subansiri",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_250",
+      "state": "ARUNACHAL PRADESH",
+      "district": "West Siang",
+      "gis_state": "AR",
+      "gis_district": "West Siang",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_251",
+      "state": "ARUNACHAL PRADESH",
+      "district": "East Siang",
+      "gis_state": "AR",
+      "gis_district": "East Siang",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_252",
+      "state": "ARUNACHAL PRADESH",
+      "district": "Upper Siang",
+      "gis_state": "AR",
+      "gis_district": "Upper Siang",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_253",
+      "state": "ARUNACHAL PRADESH",
+      "district": "Changlang",
+      "gis_state": "AR",
+      "gis_district": "Changlang",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_254",
+      "state": "ARUNACHAL PRADESH",
+      "district": "Tirap",
+      "gis_state": "AR",
+      "gis_district": "Tirap",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_255",
+      "state": "ARUNACHAL PRADESH",
+      "district": "Lower Subansiri",
+      "gis_state": "AR",
+      "gis_district": "Lower Subansiri",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_256",
+      "state": "ARUNACHAL PRADESH",
+      "district": "Kurung Kumey",
+      "gis_state": "AR",
+      "gis_district": "Kurung Kumey",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_257",
+      "state": "ARUNACHAL PRADESH",
+      "district": "Dibang Valley",
+      "gis_state": "AR",
+      "gis_district": "Dibang Valley",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_258",
+      "state": "ARUNACHAL PRADESH",
+      "district": "Lower Dibang Valley",
+      "gis_state": "AR",
+      "gis_district": "Lower Dibang Valley",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_259",
+      "state": "ARUNACHAL PRADESH",
+      "district": "Lohit",
+      "gis_state": "AR",
+      "gis_district": "Lohit",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_260",
+      "state": "ARUNACHAL PRADESH",
+      "district": "Anjaw",
+      "gis_state": "AR",
+      "gis_district": "Anjaw",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_261",
+      "state": "NAGALAND",
+      "district": "Mon",
+      "gis_state": "NL",
+      "gis_district": "Mon",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_262",
+      "state": "NAGALAND",
+      "district": "Mokokchung",
+      "gis_state": "NL",
+      "gis_district": "Mokokchung",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_263",
+      "state": "NAGALAND",
+      "district": "Zunheboto",
+      "gis_state": "NL",
+      "gis_district": "Zunheboto",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_264",
+      "state": "NAGALAND",
+      "district": "Wokha",
+      "gis_state": "NL",
+      "gis_district": "Wokha",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_265",
+      "state": "NAGALAND",
+      "district": "Dimapur",
+      "gis_state": "NL",
+      "gis_district": "Dimapur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_266",
+      "state": "NAGALAND",
+      "district": "Phek",
+      "gis_state": "NL",
+      "gis_district": "Phek",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_267",
+      "state": "NAGALAND",
+      "district": "Tuensang",
+      "gis_state": "NL",
+      "gis_district": "Tuensang",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_268",
+      "state": "NAGALAND",
+      "district": "Longleng",
+      "gis_state": "NL",
+      "gis_district": "Longleng",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_269",
+      "state": "NAGALAND",
+      "district": "Kiphire",
+      "gis_state": "NL",
+      "gis_district": "Kiphire",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_270",
+      "state": "NAGALAND",
+      "district": "Kohima",
+      "gis_state": "NL",
+      "gis_district": "Kohima",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_271",
+      "state": "NAGALAND",
+      "district": "Peren",
+      "gis_state": "NL",
+      "gis_district": "Peren",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_272",
+      "state": "MANIPUR",
+      "district": "Senapati",
+      "gis_state": "MN",
+      "gis_district": "Senapati",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_273",
+      "state": "MANIPUR",
+      "district": "Tamenglong",
+      "gis_state": "MN",
+      "gis_district": "Tamenglong",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_274",
+      "state": "MANIPUR",
+      "district": "Churachandpur",
+      "gis_state": "MN",
+      "gis_district": "Churachandpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_275",
+      "state": "MANIPUR",
+      "district": "Bishnupur",
+      "gis_state": "MN",
+      "gis_district": "Bishnupur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_276",
+      "state": "MANIPUR",
+      "district": "Thoubal",
+      "gis_state": "MN",
+      "gis_district": "Thoubal",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_277",
+      "state": "MANIPUR",
+      "district": "Imphal West",
+      "gis_state": "MN",
+      "gis_district": "Imphal West",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_278",
+      "state": "MANIPUR",
+      "district": "Imphal East",
+      "gis_state": "MN",
+      "gis_district": "Imphal East",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_279",
+      "state": "MANIPUR",
+      "district": "Ukhrul",
+      "gis_state": "MN",
+      "gis_district": "Ukhrul",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_280",
+      "state": "MANIPUR",
+      "district": "Chandel",
+      "gis_state": "MN",
+      "gis_district": "Chandel",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_281",
+      "state": "MIZORAM",
+      "district": "Mamit",
+      "gis_state": "MZ",
+      "gis_district": "Mamit",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_282",
+      "state": "MIZORAM",
+      "district": "Kolasib",
+      "gis_state": "MZ",
+      "gis_district": "Kolasib",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_283",
+      "state": "MIZORAM",
+      "district": "Aizawl",
+      "gis_state": "MZ",
+      "gis_district": "Aizawl",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_284",
+      "state": "MIZORAM",
+      "district": "Champhai",
+      "gis_state": "MZ",
+      "gis_district": "Champhai",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_285",
+      "state": "MIZORAM",
+      "district": "Serchhip",
+      "gis_state": "MZ",
+      "gis_district": "Serchhip",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_286",
+      "state": "MIZORAM",
+      "district": "Lunglei",
+      "gis_state": "MZ",
+      "gis_district": "Lunglei",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_287",
+      "state": "MIZORAM",
+      "district": "Lawngtlai",
+      "gis_state": "MZ",
+      "gis_district": "Lawngtlai",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_288",
+      "state": "MIZORAM",
+      "district": "Saiha",
+      "gis_state": "MZ",
+      "gis_district": "Saiha",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_289",
+      "state": "TRIPURA",
+      "district": "West Tripura",
+      "gis_state": "TR",
+      "gis_district": "West Tripura",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_290",
+      "state": "TRIPURA",
+      "district": "South Tripura",
+      "gis_state": "TR",
+      "gis_district": "South Tripura",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_291",
+      "state": "TRIPURA",
+      "district": "Dhalai",
+      "gis_state": "TR",
+      "gis_district": "Dhalai",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_292",
+      "state": "TRIPURA",
+      "district": "North Tripura",
+      "gis_state": "TR",
+      "gis_district": "North Tripura",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_293",
+      "state": "MEGHALAYA",
+      "district": "West Garo Hills",
+      "gis_state": "ML",
+      "gis_district": "West Garo Hills",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_294",
+      "state": "MEGHALAYA",
+      "district": "East Garo Hills",
+      "gis_state": "ML",
+      "gis_district": "East Garo Hills",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_295",
+      "state": "MEGHALAYA",
+      "district": "South Garo Hills",
+      "gis_state": "ML",
+      "gis_district": "South Garo Hills",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_296",
+      "state": "MEGHALAYA",
+      "district": "West Khasi Hills",
+      "gis_state": "ML",
+      "gis_district": "West Khasi Hills",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_298",
+      "state": "MEGHALAYA",
+      "district": "East Khasi Hills",
+      "gis_state": "ML",
+      "gis_district": "East Khasi Hills",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_300",
+      "state": "ASSAM",
+      "district": "Kokrajhar",
+      "gis_state": "AS",
+      "gis_district": "Kokrajhar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_301",
+      "state": "ASSAM",
+      "district": "Dhubri",
+      "gis_state": "AS",
+      "gis_district": "Dhubri",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_302",
+      "state": "ASSAM",
+      "district": "Goalpara",
+      "gis_state": "AS",
+      "gis_district": "Goalpara",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_303",
+      "state": "ASSAM",
+      "district": "Barpeta",
+      "gis_state": "AS",
+      "gis_district": "Barpeta",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_304",
+      "state": "ASSAM",
+      "district": "Morigaon",
+      "gis_state": "AS",
+      "gis_district": "Marigaon",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_305",
+      "state": "ASSAM",
+      "district": "Nagaon",
+      "gis_state": "AS",
+      "gis_district": "Nagaon",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_306",
+      "state": "ASSAM",
+      "district": "Sonitpur",
+      "gis_state": "AS",
+      "gis_district": "Sonitpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_307",
+      "state": "ASSAM",
+      "district": "Lakhimpur",
+      "gis_state": "AS",
+      "gis_district": "Lakhimpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_308",
+      "state": "ASSAM",
+      "district": "Dhemaji",
+      "gis_state": "AS",
+      "gis_district": "Dhemaji",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_309",
+      "state": "ASSAM",
+      "district": "Tinsukia",
+      "gis_state": "AS",
+      "gis_district": "Tinsukia",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_310",
+      "state": "ASSAM",
+      "district": "Dibrugarh",
+      "gis_state": "AS",
+      "gis_district": "Dibrugarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_311",
+      "state": "ASSAM",
+      "district": "Sivasagar",
+      "gis_state": "AS",
+      "gis_district": "Sivasagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_312",
+      "state": "ASSAM",
+      "district": "Jorhat",
+      "gis_state": "AS",
+      "gis_district": "Jorhat",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_313",
+      "state": "ASSAM",
+      "district": "Golaghat",
+      "gis_state": "AS",
+      "gis_district": "Golaghat",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_314",
+      "state": "ASSAM",
+      "district": "Karbi Anglong",
+      "gis_state": "AS",
+      "gis_district": "Karbi Anglong",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_315",
+      "state": "ASSAM",
+      "district": "Dima Hasao",
+      "gis_state": "AS",
+      "gis_district": "Dima Hasao",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_316",
+      "state": "ASSAM",
+      "district": "Cachar",
+      "gis_state": "AS",
+      "gis_district": "Cachar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_317",
+      "state": "ASSAM",
+      "district": "Karimganj",
+      "gis_state": "AS",
+      "gis_district": "Karimganj",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_318",
+      "state": "ASSAM",
+      "district": "Hailakandi",
+      "gis_state": "AS",
+      "gis_district": "Hailakandi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_319",
+      "state": "ASSAM",
+      "district": "Bongaigaon",
+      "gis_state": "AS",
+      "gis_district": "Bongaigaon",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_320",
+      "state": "ASSAM",
+      "district": "Chirang",
+      "gis_state": "AS",
+      "gis_district": "Chirang",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_321",
+      "state": "ASSAM",
+      "district": "Kamrup",
+      "gis_state": "AS",
+      "gis_district": "Kamrup",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_323",
+      "state": "ASSAM",
+      "district": "Nalbari",
+      "gis_state": "AS",
+      "gis_district": "Nalbari",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_324",
+      "state": "ASSAM",
+      "district": "Baksa",
+      "gis_state": "AS",
+      "gis_district": "Baksa",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_325",
+      "state": "ASSAM",
+      "district": "Darrang",
+      "gis_state": "AS",
+      "gis_district": "Darrang",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_326",
+      "state": "ASSAM",
+      "district": "Udalguri",
+      "gis_state": "AS",
+      "gis_district": "Udalguri",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_328",
+      "state": "WEST BENGAL",
+      "district": "Jalpaiguri",
+      "gis_state": "WB",
+      "gis_district": "Jalpaiguri",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_332",
+      "state": "WEST BENGAL",
+      "district": "Maldah",
+      "gis_state": "WB",
+      "gis_district": "Maldah",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_333",
+      "state": "WEST BENGAL",
+      "district": "Murshidabad",
+      "gis_state": "WB",
+      "gis_district": "Murshidabad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_334",
+      "state": "WEST BENGAL",
+      "district": "Birbhum",
+      "gis_state": "WB",
+      "gis_district": "Birbhum",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_336",
+      "state": "WEST BENGAL",
+      "district": "Nadia",
+      "gis_state": "WB",
+      "gis_district": "Nadia",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_339",
+      "state": "WEST BENGAL",
+      "district": "Bankura",
+      "gis_state": "WB",
+      "gis_district": "Bankura",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_342",
+      "state": "WEST BENGAL",
+      "district": "Kolkata",
+      "gis_state": "WB",
+      "gis_district": "Kolkata",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_346",
+      "state": "JHARKHAND",
+      "district": "Garhwa",
+      "gis_state": "JH",
+      "gis_district": "Garhwa",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_347",
+      "state": "JHARKHAND",
+      "district": "Chatra",
+      "gis_state": "JH",
+      "gis_district": "Chatra",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_349",
+      "state": "JHARKHAND",
+      "district": "Giridih",
+      "gis_state": "JH",
+      "gis_district": "Giridih",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_350",
+      "state": "JHARKHAND",
+      "district": "Deoghar",
+      "gis_state": "JH",
+      "gis_district": "Deoghar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_351",
+      "state": "JHARKHAND",
+      "district": "Godda",
+      "gis_state": "JH",
+      "gis_district": "Godda",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_353",
+      "state": "JHARKHAND",
+      "district": "Pakur",
+      "gis_state": "JH",
+      "gis_district": "Pakur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_354",
+      "state": "JHARKHAND",
+      "district": "Dhanbad",
+      "gis_state": "JH",
+      "gis_district": "Dhanbad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_355",
+      "state": "JHARKHAND",
+      "district": "Bokaro",
+      "gis_state": "JH",
+      "gis_district": "Bokaro",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_356",
+      "state": "JHARKHAND",
+      "district": "Lohardaga",
+      "gis_state": "JH",
+      "gis_district": "Lohardaga",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_358",
+      "state": "JHARKHAND",
+      "district": "Palamu",
+      "gis_state": "JH",
+      "gis_district": "Palamu",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_359",
+      "state": "JHARKHAND",
+      "district": "Latehar",
+      "gis_state": "JH",
+      "gis_district": "Latehar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_360",
+      "state": "JHARKHAND",
+      "district": "Hazaribagh",
+      "gis_state": "JH",
+      "gis_district": "Hazaribagh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_361",
+      "state": "JHARKHAND",
+      "district": "Ramgarh",
+      "gis_state": "JH",
+      "gis_district": "Ramgarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_362",
+      "state": "JHARKHAND",
+      "district": "Dumka",
+      "gis_state": "JH",
+      "gis_district": "Dumka",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_363",
+      "state": "JHARKHAND",
+      "district": "Jamtara",
+      "gis_state": "JH",
+      "gis_district": "Jamtara",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_364",
+      "state": "JHARKHAND",
+      "district": "Ranchi",
+      "gis_state": "JH",
+      "gis_district": "Ranchi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_365",
+      "state": "JHARKHAND",
+      "district": "Khunti",
+      "gis_state": "JH",
+      "gis_district": "Khunti",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_366",
+      "state": "JHARKHAND",
+      "district": "Gumla",
+      "gis_state": "JH",
+      "gis_district": "Gumla",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_367",
+      "state": "JHARKHAND",
+      "district": "Simdega",
+      "gis_state": "JH",
+      "gis_district": "Simdega",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_368",
+      "state": "JHARKHAND",
+      "district": "Pashchimi Singhbhum",
+      "gis_state": "JH",
+      "gis_district": "West Singhbhum",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_369",
+      "state": "JHARKHAND",
+      "district": "Saraikela-Kharsawan",
+      "gis_state": "JH",
+      "gis_district": "Saraikela Kharsawan",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_370",
+      "state": "ORISSA",
+      "district": "Bargarh",
+      "gis_state": "OD",
+      "gis_district": "Bargarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_371",
+      "state": "ORISSA",
+      "district": "Jharsuguda",
+      "gis_state": "OD",
+      "gis_district": "Jharsuguda",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_372",
+      "state": "ORISSA",
+      "district": "Sambalpur",
+      "gis_state": "OD",
+      "gis_district": "Sambalpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_373",
+      "state": "ORISSA",
+      "district": "Debagarh",
+      "gis_state": "OD",
+      "gis_district": "Deogarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_374",
+      "state": "ORISSA",
+      "district": "Sundargarh",
+      "gis_state": "OD",
+      "gis_district": "Sundargarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_375",
+      "state": "ORISSA",
+      "district": "Kendujhar",
+      "gis_state": "OD",
+      "gis_district": "Kendujhar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_376",
+      "state": "ORISSA",
+      "district": "Mayurbhanj",
+      "gis_state": "OD",
+      "gis_district": "Mayurbhanj",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_377",
+      "state": "ORISSA",
+      "district": "Baleshwar",
+      "gis_state": "OD",
+      "gis_district": "Baleshwar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_378",
+      "state": "ORISSA",
+      "district": "Bhadrak",
+      "gis_state": "OD",
+      "gis_district": "Bhadrak",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_379",
+      "state": "ORISSA",
+      "district": "Kendrapara",
+      "gis_state": "OD",
+      "gis_district": "Kendrapara",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_380",
+      "state": "ORISSA",
+      "district": "Jagatsinghapur",
+      "gis_state": "OD",
+      "gis_district": "Jagatsinghapur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_381",
+      "state": "ORISSA",
+      "district": "Cuttack",
+      "gis_state": "OD",
+      "gis_district": "Cuttack",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_382",
+      "state": "ORISSA",
+      "district": "Jajapur",
+      "gis_state": "OD",
+      "gis_district": "Jajapur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_383",
+      "state": "ORISSA",
+      "district": "Dhenkanal",
+      "gis_state": "OD",
+      "gis_district": "Dhenkanal",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_384",
+      "state": "ORISSA",
+      "district": "Anugul",
+      "gis_state": "OD",
+      "gis_district": "Anugul",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_385",
+      "state": "ORISSA",
+      "district": "Nayagarh",
+      "gis_state": "OD",
+      "gis_district": "Nayagarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_386",
+      "state": "ORISSA",
+      "district": "Khordha",
+      "gis_state": "OD",
+      "gis_district": "Khordha",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_387",
+      "state": "ORISSA",
+      "district": "Puri",
+      "gis_state": "OD",
+      "gis_district": "Puri",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_388",
+      "state": "ORISSA",
+      "district": "Ganjam",
+      "gis_state": "OD",
+      "gis_district": "Ganjam",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_389",
+      "state": "ORISSA",
+      "district": "Gajapati",
+      "gis_state": "OD",
+      "gis_district": "Gajapati",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_390",
+      "state": "ORISSA",
+      "district": "Kandhamal",
+      "gis_state": "OD",
+      "gis_district": "Kandhamal",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_391",
+      "state": "ORISSA",
+      "district": "Baudh",
+      "gis_state": "OD",
+      "gis_district": "Boudh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_392",
+      "state": "ORISSA",
+      "district": "Subarnapur",
+      "gis_state": "OD",
+      "gis_district": "Sonepur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_393",
+      "state": "ORISSA",
+      "district": "Balangir",
+      "gis_state": "OD",
+      "gis_district": "Balangir",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_394",
+      "state": "ORISSA",
+      "district": "Nuapada",
+      "gis_state": "OD",
+      "gis_district": "Nuapada",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_395",
+      "state": "ORISSA",
+      "district": "Kalahandi",
+      "gis_state": "OD",
+      "gis_district": "Kalahandi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_396",
+      "state": "ORISSA",
+      "district": "Rayagada",
+      "gis_state": "OD",
+      "gis_district": "Rayagada",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_398",
+      "state": "ORISSA",
+      "district": "Koraput",
+      "gis_state": "OD",
+      "gis_district": "Koraput",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_399",
+      "state": "ORISSA",
+      "district": "Malkangiri",
+      "gis_state": "OD",
+      "gis_district": "Malkangiri",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_401",
+      "state": "CHHATTISGARH",
+      "district": "Surguja",
+      "gis_state": "CG",
+      "gis_district": "Surguja",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_402",
+      "state": "CHHATTISGARH",
+      "district": "Jashpur",
+      "gis_state": "CG",
+      "gis_district": "Jashpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_403",
+      "state": "CHHATTISGARH",
+      "district": "Raigarh",
+      "gis_state": "CG",
+      "gis_district": "Raigarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_404",
+      "state": "CHHATTISGARH",
+      "district": "Korba",
+      "gis_state": "CG",
+      "gis_district": "Korba",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_405",
+      "state": "CHHATTISGARH",
+      "district": "Janjgir - Champa",
+      "gis_state": "CG",
+      "gis_district": "Janjgir-Champa",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_406",
+      "state": "CHHATTISGARH",
+      "district": "Bilaspur",
+      "gis_state": "CG",
+      "gis_district": "Bilaspur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_408",
+      "state": "CHHATTISGARH",
+      "district": "Rajnandgaon",
+      "gis_state": "CG",
+      "gis_district": "Rajnandgaon",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_409",
+      "state": "CHHATTISGARH",
+      "district": "Durg",
+      "gis_state": "CG",
+      "gis_district": "Durg",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_410",
+      "state": "CHHATTISGARH",
+      "district": "Raipur",
+      "gis_state": "CG",
+      "gis_district": "Raipur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_411",
+      "state": "CHHATTISGARH",
+      "district": "Mahasamund",
+      "gis_state": "CG",
+      "gis_district": "Mahasamund",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_412",
+      "state": "CHHATTISGARH",
+      "district": "Dhamtari",
+      "gis_state": "CG",
+      "gis_district": "Dhamtari",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_414",
+      "state": "CHHATTISGARH",
+      "district": "Bastar",
+      "gis_state": "CG",
+      "gis_district": "Bastar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_415",
+      "state": "CHHATTISGARH",
+      "district": "Narayanpur",
+      "gis_state": "CG",
+      "gis_district": "Narayanpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_417",
+      "state": "CHHATTISGARH",
+      "district": "Bijapur",
+      "gis_state": "CG",
+      "gis_district": "Bijapur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_418",
+      "state": "MADHYA PRADESH",
+      "district": "Sheopur",
+      "gis_state": "MP",
+      "gis_district": "Sheopur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_419",
+      "state": "MADHYA PRADESH",
+      "district": "Morena",
+      "gis_state": "MP",
+      "gis_district": "Morena",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_420",
+      "state": "MADHYA PRADESH",
+      "district": "Bhind",
+      "gis_state": "MP",
+      "gis_district": "Bhind",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_421",
+      "state": "MADHYA PRADESH",
+      "district": "Gwalior",
+      "gis_state": "MP",
+      "gis_district": "Gwalior",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_422",
+      "state": "MADHYA PRADESH",
+      "district": "Datia",
+      "gis_state": "MP",
+      "gis_district": "Datia",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_423",
+      "state": "MADHYA PRADESH",
+      "district": "Shivpuri",
+      "gis_state": "MP",
+      "gis_district": "Shivpuri",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_424",
+      "state": "MADHYA PRADESH",
+      "district": "Tikamgarh",
+      "gis_state": "MP",
+      "gis_district": "Tikamgarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_425",
+      "state": "MADHYA PRADESH",
+      "district": "Chhatarpur",
+      "gis_state": "MP",
+      "gis_district": "Chhatarpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_426",
+      "state": "MADHYA PRADESH",
+      "district": "Panna",
+      "gis_state": "MP",
+      "gis_district": "Panna",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_427",
+      "state": "MADHYA PRADESH",
+      "district": "Sagar",
+      "gis_state": "MP",
+      "gis_district": "Sagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_428",
+      "state": "MADHYA PRADESH",
+      "district": "Damoh",
+      "gis_state": "MP",
+      "gis_district": "Damoh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_429",
+      "state": "MADHYA PRADESH",
+      "district": "Satna",
+      "gis_state": "MP",
+      "gis_district": "Satna",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_430",
+      "state": "MADHYA PRADESH",
+      "district": "Rewa",
+      "gis_state": "MP",
+      "gis_district": "Rewa",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_431",
+      "state": "MADHYA PRADESH",
+      "district": "Umaria",
+      "gis_state": "MP",
+      "gis_district": "Umaria",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_432",
+      "state": "MADHYA PRADESH",
+      "district": "Neemuch",
+      "gis_state": "MP",
+      "gis_district": "Neemuch",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_433",
+      "state": "MADHYA PRADESH",
+      "district": "Mandsaur",
+      "gis_state": "MP",
+      "gis_district": "Mandsaur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_434",
+      "state": "MADHYA PRADESH",
+      "district": "Ratlam",
+      "gis_state": "MP",
+      "gis_district": "Ratlam",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_435",
+      "state": "MADHYA PRADESH",
+      "district": "Ujjain",
+      "gis_state": "MP",
+      "gis_district": "Ujjain",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_436",
+      "state": "MADHYA PRADESH",
+      "district": "Shajapur",
+      "gis_state": "MP",
+      "gis_district": "Shajapur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_437",
+      "state": "MADHYA PRADESH",
+      "district": "Dewas",
+      "gis_state": "MP",
+      "gis_district": "Dewas",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_438",
+      "state": "MADHYA PRADESH",
+      "district": "Dhar",
+      "gis_state": "MP",
+      "gis_district": "Dhar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_439",
+      "state": "MADHYA PRADESH",
+      "district": "Indore",
+      "gis_state": "MP",
+      "gis_district": "Indore",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_441",
+      "state": "MADHYA PRADESH",
+      "district": "Barwani",
+      "gis_state": "MP",
+      "gis_district": "Barwani",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_442",
+      "state": "MADHYA PRADESH",
+      "district": "Rajgarh",
+      "gis_state": "MP",
+      "gis_district": "Rajgarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_443",
+      "state": "MADHYA PRADESH",
+      "district": "Vidisha",
+      "gis_state": "MP",
+      "gis_district": "Vidisha",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_444",
+      "state": "MADHYA PRADESH",
+      "district": "Bhopal",
+      "gis_state": "MP",
+      "gis_district": "Bhopal",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_445",
+      "state": "MADHYA PRADESH",
+      "district": "Sehore",
+      "gis_state": "MP",
+      "gis_district": "Sehore",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_446",
+      "state": "MADHYA PRADESH",
+      "district": "Raisen",
+      "gis_state": "MP",
+      "gis_district": "Raisen",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_447",
+      "state": "MADHYA PRADESH",
+      "district": "Betul",
+      "gis_state": "MP",
+      "gis_district": "Betul",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_448",
+      "state": "MADHYA PRADESH",
+      "district": "Harda",
+      "gis_state": "MP",
+      "gis_district": "Harda",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_450",
+      "state": "MADHYA PRADESH",
+      "district": "Katni",
+      "gis_state": "MP",
+      "gis_district": "Katni",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_451",
+      "state": "MADHYA PRADESH",
+      "district": "Jabalpur",
+      "gis_state": "MP",
+      "gis_district": "Jabalpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_452",
+      "state": "MADHYA PRADESH",
+      "district": "Narsimhapur",
+      "gis_state": "MP",
+      "gis_district": "Narsinghpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_453",
+      "state": "MADHYA PRADESH",
+      "district": "Dindori",
+      "gis_state": "MP",
+      "gis_district": "Dindori",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_454",
+      "state": "MADHYA PRADESH",
+      "district": "Mandla",
+      "gis_state": "MP",
+      "gis_district": "Mandla",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_455",
+      "state": "MADHYA PRADESH",
+      "district": "Chhindwara",
+      "gis_state": "MP",
+      "gis_district": "Chhindwara",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_456",
+      "state": "MADHYA PRADESH",
+      "district": "Seoni",
+      "gis_state": "MP",
+      "gis_district": "Seoni",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_457",
+      "state": "MADHYA PRADESH",
+      "district": "Balaghat",
+      "gis_state": "MP",
+      "gis_district": "Balaghat",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_458",
+      "state": "MADHYA PRADESH",
+      "district": "Guna",
+      "gis_state": "MP",
+      "gis_district": "Guna",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_459",
+      "state": "MADHYA PRADESH",
+      "district": "Ashoknagar",
+      "gis_state": "MP",
+      "gis_district": "Ashoknagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_460",
+      "state": "MADHYA PRADESH",
+      "district": "Shahdol",
+      "gis_state": "MP",
+      "gis_district": "Shahdol",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_461",
+      "state": "MADHYA PRADESH",
+      "district": "Anuppur",
+      "gis_state": "MP",
+      "gis_district": "Anuppur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_462",
+      "state": "MADHYA PRADESH",
+      "district": "Sidhi",
+      "gis_state": "MP",
+      "gis_district": "Sidhi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_463",
+      "state": "MADHYA PRADESH",
+      "district": "Singrauli",
+      "gis_state": "MP",
+      "gis_district": "Singrauli",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_464",
+      "state": "MADHYA PRADESH",
+      "district": "Jhabua",
+      "gis_state": "MP",
+      "gis_district": "Jhabua",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_465",
+      "state": "MADHYA PRADESH",
+      "district": "Alirajpur",
+      "gis_state": "MP",
+      "gis_district": "Alirajpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_467",
+      "state": "MADHYA PRADESH",
+      "district": "Burhanpur",
+      "gis_state": "MP",
+      "gis_district": "Burhanpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_468",
+      "state": "GUJARAT",
+      "district": "Kachchh",
+      "gis_state": "GJ",
+      "gis_district": "Kachchh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_469",
+      "state": "GUJARAT",
+      "district": "Banas Kantha",
+      "gis_state": "GJ",
+      "gis_district": "Banas Kantha",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_470",
+      "state": "GUJARAT",
+      "district": "Patan",
+      "gis_state": "GJ",
+      "gis_district": "Patan",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_471",
+      "state": "GUJARAT",
+      "district": "Mahesana",
+      "gis_state": "GJ",
+      "gis_district": "Mahesana",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_472",
+      "state": "GUJARAT",
+      "district": "Sabar Kantha",
+      "gis_state": "GJ",
+      "gis_district": "Sabar Kantha",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_473",
+      "state": "GUJARAT",
+      "district": "Gandhinagar",
+      "gis_state": "GJ",
+      "gis_district": "Gandhinagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_474",
+      "state": "GUJARAT",
+      "district": "Ahmadabad",
+      "gis_state": "GJ",
+      "gis_district": "Ahmadabad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_475",
+      "state": "GUJARAT",
+      "district": "Surendranagar",
+      "gis_state": "GJ",
+      "gis_district": "Surendranagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_476",
+      "state": "GUJARAT",
+      "district": "Rajkot",
+      "gis_state": "GJ",
+      "gis_district": "Rajkot",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_477",
+      "state": "GUJARAT",
+      "district": "Jamnagar",
+      "gis_state": "GJ",
+      "gis_district": "Jamnagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_478",
+      "state": "GUJARAT",
+      "district": "Porbandar",
+      "gis_state": "GJ",
+      "gis_district": "Porbandar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_479",
+      "state": "GUJARAT",
+      "district": "Junagadh",
+      "gis_state": "GJ",
+      "gis_district": "Junagadh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_480",
+      "state": "GUJARAT",
+      "district": "Amreli",
+      "gis_state": "GJ",
+      "gis_district": "Amreli",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_481",
+      "state": "GUJARAT",
+      "district": "Bhavnagar",
+      "gis_state": "GJ",
+      "gis_district": "Bhavnagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_482",
+      "state": "GUJARAT",
+      "district": "Anand",
+      "gis_state": "GJ",
+      "gis_district": "Anand",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_483",
+      "state": "GUJARAT",
+      "district": "Kheda",
+      "gis_state": "GJ",
+      "gis_district": "Kheda",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_484",
+      "state": "GUJARAT",
+      "district": "Panch Mahals",
+      "gis_state": "GJ",
+      "gis_district": "Panch Mahals",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_485",
+      "state": "GUJARAT",
+      "district": "Dohad",
+      "gis_state": "GJ",
+      "gis_district": "Dohad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_486",
+      "state": "GUJARAT",
+      "district": "Vadodara",
+      "gis_state": "GJ",
+      "gis_district": "Vadodara",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_487",
+      "state": "GUJARAT",
+      "district": "Narmada",
+      "gis_state": "GJ",
+      "gis_district": "Narmada",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_488",
+      "state": "GUJARAT",
+      "district": "Bharuch",
+      "gis_state": "GJ",
+      "gis_district": "Bharuch",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_490",
+      "state": "GUJARAT",
+      "district": "Navsari",
+      "gis_state": "GJ",
+      "gis_district": "Navsari",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_491",
+      "state": "GUJARAT",
+      "district": "Valsad",
+      "gis_state": "GJ",
+      "gis_district": "Valsad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_492",
+      "state": "GUJARAT",
+      "district": "Surat",
+      "gis_state": "GJ",
+      "gis_district": "Surat",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_493",
+      "state": "GUJARAT",
+      "district": "Tapi",
+      "gis_state": "GJ",
+      "gis_district": "Tapi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_494",
+      "state": "DAMAN AND DIU",
+      "district": "Diu",
+      "gis_state": "DH",
+      "gis_district": "Diu",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_495",
+      "state": "DAMAN AND DIU",
+      "district": "Daman",
+      "gis_state": "DH",
+      "gis_district": "Daman",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_496",
+      "state": "DADRA AND NAGAR HAVELI",
+      "district": "Dadra AND Nagar Haveli",
+      "gis_state": "DH",
+      "gis_district": "Dadra And Nagar Haveli",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_497",
+      "state": "MAHARASHTRA",
+      "district": "Nandurbar",
+      "gis_state": "MH",
+      "gis_district": "Nandurbar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_498",
+      "state": "MAHARASHTRA",
+      "district": "Dhule",
+      "gis_state": "MH",
+      "gis_district": "Dhule",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_499",
+      "state": "MAHARASHTRA",
+      "district": "Jalgaon",
+      "gis_state": "MH",
+      "gis_district": "Jalgaon",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_501",
+      "state": "MAHARASHTRA",
+      "district": "Akola",
+      "gis_state": "MH",
+      "gis_district": "Akola",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_502",
+      "state": "MAHARASHTRA",
+      "district": "Washim",
+      "gis_state": "MH",
+      "gis_district": "Washim",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_503",
+      "state": "MAHARASHTRA",
+      "district": "Amravati",
+      "gis_state": "MH",
+      "gis_district": "Amravati",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_504",
+      "state": "MAHARASHTRA",
+      "district": "Wardha",
+      "gis_state": "MH",
+      "gis_district": "Wardha",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_505",
+      "state": "MAHARASHTRA",
+      "district": "Nagpur",
+      "gis_state": "MH",
+      "gis_district": "Nagpur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_506",
+      "state": "MAHARASHTRA",
+      "district": "Bhandara",
+      "gis_state": "MH",
+      "gis_district": "Bhandara",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_508",
+      "state": "MAHARASHTRA",
+      "district": "Gadchiroli",
+      "gis_state": "MH",
+      "gis_district": "Gadchiroli",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_509",
+      "state": "MAHARASHTRA",
+      "district": "Chandrapur",
+      "gis_state": "MH",
+      "gis_district": "Chandrapur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_510",
+      "state": "MAHARASHTRA",
+      "district": "Yavatmal",
+      "gis_state": "MH",
+      "gis_district": "Yavatmal",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_511",
+      "state": "MAHARASHTRA",
+      "district": "Nanded",
+      "gis_state": "MH",
+      "gis_district": "Nanded",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_512",
+      "state": "MAHARASHTRA",
+      "district": "Hingoli",
+      "gis_state": "MH",
+      "gis_district": "Hingoli",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_513",
+      "state": "MAHARASHTRA",
+      "district": "Parbhani",
+      "gis_state": "MH",
+      "gis_district": "Parbhani",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_514",
+      "state": "MAHARASHTRA",
+      "district": "Jalna",
+      "gis_state": "MH",
+      "gis_district": "Jalna",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_515",
+      "state": "MAHARASHTRA",
+      "district": "Aurangabad",
+      "gis_state": "BR",
+      "gis_district": "Aurangabad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_516",
+      "state": "MAHARASHTRA",
+      "district": "Nashik",
+      "gis_state": "MH",
+      "gis_district": "Nashik",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_517",
+      "state": "MAHARASHTRA",
+      "district": "Thane",
+      "gis_state": "MH",
+      "gis_district": "Thane",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_518",
+      "state": "MAHARASHTRA",
+      "district": "Mumbai Suburban",
+      "gis_state": "MH",
+      "gis_district": "Mumbai Suburban",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_519",
+      "state": "MAHARASHTRA",
+      "district": "Mumbai",
+      "gis_state": "MH",
+      "gis_district": "Mumbai",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_520",
+      "state": "MAHARASHTRA",
+      "district": "Raigarh",
+      "gis_state": "CG",
+      "gis_district": "Raigarh",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_521",
+      "state": "MAHARASHTRA",
+      "district": "Pune",
+      "gis_state": "MH",
+      "gis_district": "Pune",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_522",
+      "state": "MAHARASHTRA",
+      "district": "Ahmadnagar",
+      "gis_state": "MH",
+      "gis_district": "Ahmednagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_524",
+      "state": "MAHARASHTRA",
+      "district": "Latur",
+      "gis_state": "MH",
+      "gis_district": "Latur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_525",
+      "state": "MAHARASHTRA",
+      "district": "Osmanabad",
+      "gis_state": "MH",
+      "gis_district": "Osmanabad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_526",
+      "state": "MAHARASHTRA",
+      "district": "Solapur",
+      "gis_state": "MH",
+      "gis_district": "Solapur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_527",
+      "state": "MAHARASHTRA",
+      "district": "Satara",
+      "gis_state": "MH",
+      "gis_district": "Satara",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_528",
+      "state": "MAHARASHTRA",
+      "district": "Ratnagiri",
+      "gis_state": "MH",
+      "gis_district": "Ratnagiri",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_529",
+      "state": "MAHARASHTRA",
+      "district": "Sindhudurg",
+      "gis_state": "MH",
+      "gis_district": "Sindhudurg",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_530",
+      "state": "MAHARASHTRA",
+      "district": "Kolhapur",
+      "gis_state": "MH",
+      "gis_district": "Kolhapur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_531",
+      "state": "MAHARASHTRA",
+      "district": "Sangli",
+      "gis_state": "MH",
+      "gis_district": "Sangli",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_532",
+      "state": "ANDHRA PRADESH",
+      "district": "Adilabad",
+      "gis_state": "TS",
+      "gis_district": "Adilabad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_533",
+      "state": "ANDHRA PRADESH",
+      "district": "Nizamabad",
+      "gis_state": "TS",
+      "gis_district": "Nizamabad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_534",
+      "state": "ANDHRA PRADESH",
+      "district": "Karimnagar",
+      "gis_state": "TS",
+      "gis_district": "Karimnagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_535",
+      "state": "ANDHRA PRADESH",
+      "district": "Medak",
+      "gis_state": "TS",
+      "gis_district": "Medak",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_536",
+      "state": "ANDHRA PRADESH",
+      "district": "Hyderabad",
+      "gis_state": "TS",
+      "gis_district": "Hyderabad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_539",
+      "state": "ANDHRA PRADESH",
+      "district": "Nalgonda",
+      "gis_state": "TS",
+      "gis_district": "Nalgonda",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_540",
+      "state": "ANDHRA PRADESH",
+      "district": "Warangal",
+      "gis_state": "TS",
+      "gis_district": "Warangal",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_541",
+      "state": "ANDHRA PRADESH",
+      "district": "Khammam",
+      "gis_state": "TS",
+      "gis_district": "Khammam",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_542",
+      "state": "ANDHRA PRADESH",
+      "district": "Srikakulam",
+      "gis_state": "AP",
+      "gis_district": "Srikakulam",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_543",
+      "state": "ANDHRA PRADESH",
+      "district": "Vizianagaram",
+      "gis_state": "AP",
+      "gis_district": "Vizianagaram",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_545",
+      "state": "ANDHRA PRADESH",
+      "district": "East Godavari",
+      "gis_state": "AP",
+      "gis_district": "East Godavari",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_546",
+      "state": "ANDHRA PRADESH",
+      "district": "West Godavari",
+      "gis_state": "AP",
+      "gis_district": "West Godavari",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_547",
+      "state": "ANDHRA PRADESH",
+      "district": "Krishna",
+      "gis_state": "AP",
+      "gis_district": "Krishna",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_548",
+      "state": "ANDHRA PRADESH",
+      "district": "Guntur",
+      "gis_state": "AP",
+      "gis_district": "Guntur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_549",
+      "state": "ANDHRA PRADESH",
+      "district": "Prakasam",
+      "gis_state": "AP",
+      "gis_district": "Prakasam",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_551",
+      "state": "ANDHRA PRADESH",
+      "district": "Y.S.R.",
+      "gis_state": "AP",
+      "gis_district": "Y.S.R.",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_552",
+      "state": "ANDHRA PRADESH",
+      "district": "Kurnool",
+      "gis_state": "AP",
+      "gis_district": "Kurnool",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_553",
+      "state": "ANDHRA PRADESH",
+      "district": "Anantapur",
+      "gis_state": "AP",
+      "gis_district": "Anantapur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_554",
+      "state": "ANDHRA PRADESH",
+      "district": "Chittoor",
+      "gis_state": "AP",
+      "gis_district": "Chittoor",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_557",
+      "state": "KARNATAKA",
+      "district": "Bijapur",
+      "gis_state": "CG",
+      "gis_district": "Bijapur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_558",
+      "state": "KARNATAKA",
+      "district": "Bidar",
+      "gis_state": "KA",
+      "gis_district": "Bidar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_559",
+      "state": "KARNATAKA",
+      "district": "Raichur",
+      "gis_state": "KA",
+      "gis_district": "Raichur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_560",
+      "state": "KARNATAKA",
+      "district": "Koppal",
+      "gis_state": "KA",
+      "gis_district": "Koppal",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_561",
+      "state": "KARNATAKA",
+      "district": "Gadag",
+      "gis_state": "KA",
+      "gis_district": "Gadag",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_562",
+      "state": "KARNATAKA",
+      "district": "Dharwad",
+      "gis_state": "KA",
+      "gis_district": "Dharwad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_563",
+      "state": "KARNATAKA",
+      "district": "Uttara Kannada",
+      "gis_state": "KA",
+      "gis_district": "Uttara Kannada",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_564",
+      "state": "KARNATAKA",
+      "district": "Haveri",
+      "gis_state": "KA",
+      "gis_district": "Haveri",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_566",
+      "state": "KARNATAKA",
+      "district": "Chitradurga",
+      "gis_state": "KA",
+      "gis_district": "Chitradurga",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_569",
+      "state": "KARNATAKA",
+      "district": "Udupi",
+      "gis_state": "KA",
+      "gis_district": "Udupi",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_573",
+      "state": "KARNATAKA",
+      "district": "Mandya",
+      "gis_state": "KA",
+      "gis_district": "Mandya",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_574",
+      "state": "KARNATAKA",
+      "district": "Hassan",
+      "gis_state": "KA",
+      "gis_district": "Hassan",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_575",
+      "state": "KARNATAKA",
+      "district": "Dakshina Kannada",
+      "gis_state": "KA",
+      "gis_district": "Dakshina Kannada",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_576",
+      "state": "KARNATAKA",
+      "district": "Kodagu",
+      "gis_state": "KA",
+      "gis_district": "Kodagu",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_580",
+      "state": "KARNATAKA",
+      "district": "Yadgir",
+      "gis_state": "KA",
+      "gis_district": "Yadgir",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_581",
+      "state": "KARNATAKA",
+      "district": "Kolar",
+      "gis_state": "KA",
+      "gis_district": "Kolar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_582",
+      "state": "KARNATAKA",
+      "district": "Chikkaballapura",
+      "gis_state": "KA",
+      "gis_district": "Chikkaballapura",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_584",
+      "state": "KARNATAKA",
+      "district": "Ramanagara",
+      "gis_state": "KA",
+      "gis_district": "Ramanagara",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_585",
+      "state": "GOA",
+      "district": "North Goa",
+      "gis_state": "GA",
+      "gis_district": "North Goa",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_586",
+      "state": "GOA",
+      "district": "South Goa",
+      "gis_state": "GA",
+      "gis_district": "South Goa",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_588",
+      "state": "KERALA",
+      "district": "Kasaragod",
+      "gis_state": "KL",
+      "gis_district": "Kasaragod",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_589",
+      "state": "KERALA",
+      "district": "Kannur",
+      "gis_state": "KL",
+      "gis_district": "Kannur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_590",
+      "state": "KERALA",
+      "district": "Wayanad",
+      "gis_state": "KL",
+      "gis_district": "Wayanad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_591",
+      "state": "KERALA",
+      "district": "Kozhikode",
+      "gis_state": "KL",
+      "gis_district": "Kozhikode",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_592",
+      "state": "KERALA",
+      "district": "Malappuram",
+      "gis_state": "KL",
+      "gis_district": "Malappuram",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_593",
+      "state": "KERALA",
+      "district": "Palakkad",
+      "gis_state": "KL",
+      "gis_district": "Palakkad",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_594",
+      "state": "KERALA",
+      "district": "Thrissur",
+      "gis_state": "KL",
+      "gis_district": "Thrissur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_595",
+      "state": "KERALA",
+      "district": "Ernakulam",
+      "gis_state": "KL",
+      "gis_district": "Ernakulam",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_596",
+      "state": "KERALA",
+      "district": "Idukki",
+      "gis_state": "KL",
+      "gis_district": "Idukki",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_597",
+      "state": "KERALA",
+      "district": "Kottayam",
+      "gis_state": "KL",
+      "gis_district": "Kottayam",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_598",
+      "state": "KERALA",
+      "district": "Alappuzha",
+      "gis_state": "KL",
+      "gis_district": "Alappuzha",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_599",
+      "state": "KERALA",
+      "district": "Pathanamthitta",
+      "gis_state": "KL",
+      "gis_district": "Pathanamthitta",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_600",
+      "state": "KERALA",
+      "district": "Kollam",
+      "gis_state": "KL",
+      "gis_district": "Kollam",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_601",
+      "state": "KERALA",
+      "district": "Thiruvananthapuram",
+      "gis_state": "KL",
+      "gis_district": "Thiruvananthapuram",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_602",
+      "state": "TAMIL NADU",
+      "district": "Thiruvallur",
+      "gis_state": "TN",
+      "gis_district": "Thiruvallur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_603",
+      "state": "TAMIL NADU",
+      "district": "Chennai",
+      "gis_state": "TN",
+      "gis_district": "Chennai",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_605",
+      "state": "TAMIL NADU",
+      "district": "Vellore",
+      "gis_state": "TN",
+      "gis_district": "Vellore",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_606",
+      "state": "TAMIL NADU",
+      "district": "Tiruvannamalai",
+      "gis_state": "TN",
+      "gis_district": "Tiruvannamalai",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_608",
+      "state": "TAMIL NADU",
+      "district": "Salem",
+      "gis_state": "TN",
+      "gis_district": "Salem",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_609",
+      "state": "TAMIL NADU",
+      "district": "Namakkal",
+      "gis_state": "TN",
+      "gis_district": "Namakkal",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_610",
+      "state": "TAMIL NADU",
+      "district": "Erode",
+      "gis_state": "TN",
+      "gis_district": "Erode",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_611",
+      "state": "TAMIL NADU",
+      "district": "The Nilgiris",
+      "gis_state": "TN",
+      "gis_district": "The Nilgiris",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_612",
+      "state": "TAMIL NADU",
+      "district": "Dindigul",
+      "gis_state": "TN",
+      "gis_district": "Dindigul",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_613",
+      "state": "TAMIL NADU",
+      "district": "Karur",
+      "gis_state": "TN",
+      "gis_district": "Karur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_614",
+      "state": "TAMIL NADU",
+      "district": "Tiruchirappalli",
+      "gis_state": "TN",
+      "gis_district": "Tiruchirappalli",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_615",
+      "state": "TAMIL NADU",
+      "district": "Perambalur",
+      "gis_state": "TN",
+      "gis_district": "Perambalur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_616",
+      "state": "TAMIL NADU",
+      "district": "Ariyalur",
+      "gis_state": "TN",
+      "gis_district": "Ariyalur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_617",
+      "state": "TAMIL NADU",
+      "district": "Cuddalore",
+      "gis_state": "TN",
+      "gis_district": "Cuddalore",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_618",
+      "state": "TAMIL NADU",
+      "district": "Nagapattinam",
+      "gis_state": "TN",
+      "gis_district": "Nagapattinam",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_619",
+      "state": "TAMIL NADU",
+      "district": "Thiruvarur",
+      "gis_state": "TN",
+      "gis_district": "Thiruvarur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_620",
+      "state": "TAMIL NADU",
+      "district": "Thanjavur",
+      "gis_state": "TN",
+      "gis_district": "Thanjavur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_621",
+      "state": "TAMIL NADU",
+      "district": "Pudukkottai",
+      "gis_state": "TN",
+      "gis_district": "Pudukkottai",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_622",
+      "state": "TAMIL NADU",
+      "district": "Sivaganga",
+      "gis_state": "TN",
+      "gis_district": "Sivaganga",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_623",
+      "state": "TAMIL NADU",
+      "district": "Madurai",
+      "gis_state": "TN",
+      "gis_district": "Madurai",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_624",
+      "state": "TAMIL NADU",
+      "district": "Theni",
+      "gis_state": "TN",
+      "gis_district": "Theni",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_625",
+      "state": "TAMIL NADU",
+      "district": "Virudhunagar",
+      "gis_state": "TN",
+      "gis_district": "Virudhunagar",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_626",
+      "state": "TAMIL NADU",
+      "district": "Ramanathapuram",
+      "gis_state": "TN",
+      "gis_district": "Ramanathapuram",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_628",
+      "state": "TAMIL NADU",
+      "district": "Tirunelveli",
+      "gis_state": "TN",
+      "gis_district": "Tirunelveli",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_629",
+      "state": "TAMIL NADU",
+      "district": "Kanniyakumari",
+      "gis_state": "TN",
+      "gis_district": "Kanniyakumari",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_630",
+      "state": "TAMIL NADU",
+      "district": "Dharmapuri",
+      "gis_state": "TN",
+      "gis_district": "Dharmapuri",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_631",
+      "state": "TAMIL NADU",
+      "district": "Krishnagiri",
+      "gis_state": "TN",
+      "gis_district": "Krishnagiri",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_632",
+      "state": "TAMIL NADU",
+      "district": "Coimbatore",
+      "gis_state": "TN",
+      "gis_district": "Coimbatore",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_633",
+      "state": "TAMIL NADU",
+      "district": "Tiruppur",
+      "gis_state": "TN",
+      "gis_district": "Tiruppur",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_634",
+      "state": "PONDICHERRY",
+      "district": "Yanam",
+      "gis_state": "PY",
+      "gis_district": "Yanam",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_635",
+      "state": "PONDICHERRY",
+      "district": "PONDICHERRY",
+      "gis_state": "PY",
+      "gis_district": "Pondicherry",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_636",
+      "state": "PONDICHERRY",
+      "district": "Mahe",
+      "gis_state": "PY",
+      "gis_district": "Mahe",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_637",
+      "state": "PONDICHERRY",
+      "district": "Karaikal",
+      "gis_state": "PY",
+      "gis_district": "Karaikal",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_638",
+      "state": "ANDAMAN AND NICOBAR ISLANDS",
+      "district": "Nicobars",
+      "gis_state": "AN",
+      "gis_district": "Nicobars",
+      "match_type": "ALIAS"
+    },
+    {
+      "district_id": "DIST_IND_639",
+      "state": "ANDAMAN AND NICOBAR ISLANDS",
+      "district": "North  AND Middle Andaman",
+      "gis_state": "AN",
+      "gis_district": "North And Middle Andaman",
+      "match_type": "ALIAS"
+    }
+  ],
+  "unmatched_census_districts": [
+    {
+      "district_id": "DIST_IND_052",
+      "state": "PUNJAB",
+      "district": "Sahibzada Ajit Singh Nagar"
+    },
+    {
+      "district_id": "DIST_IND_056",
+      "state": "UTTARAKHAND",
+      "district": "Uttarkashi"
+    },
+    {
+      "district_id": "DIST_IND_058",
+      "state": "UTTARAKHAND",
+      "district": "Rudraprayag"
+    },
+    {
+      "district_id": "DIST_IND_067",
+      "state": "UTTARAKHAND",
+      "district": "Udham Singh Nagar"
+    },
+    {
+      "district_id": "DIST_IND_186",
+      "state": "UTTAR PRADESH",
+      "district": "Sant Kabir Nagar"
+    },
+    {
+      "district_id": "DIST_IND_189",
+      "state": "UTTAR PRADESH",
+      "district": "Kushinagar"
+    },
+    {
+      "district_id": "DIST_IND_241",
+      "state": "SIKKIM",
+      "district": "North  District"
+    },
+    {
+      "district_id": "DIST_IND_242",
+      "state": "SIKKIM",
+      "district": "West District"
+    },
+    {
+      "district_id": "DIST_IND_243",
+      "state": "SIKKIM",
+      "district": "South District"
+    },
+    {
+      "district_id": "DIST_IND_244",
+      "state": "SIKKIM",
+      "district": "East District"
+    },
+    {
+      "district_id": "DIST_IND_297",
+      "state": "MEGHALAYA",
+      "district": "Ribhoi"
+    },
+    {
+      "district_id": "DIST_IND_299",
+      "state": "MEGHALAYA",
+      "district": "Jaintia Hills"
+    },
+    {
+      "district_id": "DIST_IND_322",
+      "state": "ASSAM",
+      "district": "Kamrup Metropolitan"
+    },
+    {
+      "district_id": "DIST_IND_327",
+      "state": "WEST BENGAL",
+      "district": "Darjiling"
+    },
+    {
+      "district_id": "DIST_IND_329",
+      "state": "WEST BENGAL",
+      "district": "Koch Bihar"
+    },
+    {
+      "district_id": "DIST_IND_330",
+      "state": "WEST BENGAL",
+      "district": "Uttar Dinajpur"
+    },
+    {
+      "district_id": "DIST_IND_331",
+      "state": "WEST BENGAL",
+      "district": "Dakshin Dinajpur"
+    },
+    {
+      "district_id": "DIST_IND_335",
+      "state": "WEST BENGAL",
+      "district": "Barddhaman"
+    },
+    {
+      "district_id": "DIST_IND_337",
+      "state": "WEST BENGAL",
+      "district": "North Twenty Four Parganas"
+    },
+    {
+      "district_id": "DIST_IND_338",
+      "state": "WEST BENGAL",
+      "district": "Hugli"
+    },
+    {
+      "district_id": "DIST_IND_340",
+      "state": "WEST BENGAL",
+      "district": "Puruliya"
+    },
+    {
+      "district_id": "DIST_IND_341",
+      "state": "WEST BENGAL",
+      "district": "Haora"
+    },
+    {
+      "district_id": "DIST_IND_343",
+      "state": "WEST BENGAL",
+      "district": "South Twenty Four Parganas"
+    },
+    {
+      "district_id": "DIST_IND_344",
+      "state": "WEST BENGAL",
+      "district": "Paschim Medinipur"
+    },
+    {
+      "district_id": "DIST_IND_345",
+      "state": "WEST BENGAL",
+      "district": "Purba Medinipur"
+    },
+    {
+      "district_id": "DIST_IND_348",
+      "state": "JHARKHAND",
+      "district": "Kodarma"
+    },
+    {
+      "district_id": "DIST_IND_352",
+      "state": "JHARKHAND",
+      "district": "Sahibganj"
+    },
+    {
+      "district_id": "DIST_IND_357",
+      "state": "JHARKHAND",
+      "district": "Purbi Singhbhum"
+    },
+    {
+      "district_id": "DIST_IND_397",
+      "state": "ORISSA",
+      "district": "Nabarangapur"
+    },
+    {
+      "district_id": "DIST_IND_400",
+      "state": "CHHATTISGARH",
+      "district": "Koriya"
+    },
+    {
+      "district_id": "DIST_IND_407",
+      "state": "CHHATTISGARH",
+      "district": "Kabeerdham"
+    },
+    {
+      "district_id": "DIST_IND_413",
+      "state": "CHHATTISGARH",
+      "district": "Uttar Bastar Kanker"
+    },
+    {
+      "district_id": "DIST_IND_416",
+      "state": "CHHATTISGARH",
+      "district": "Dakshin Bastar Dantewada"
+    },
+    {
+      "district_id": "DIST_IND_440",
+      "state": "MADHYA PRADESH",
+      "district": "Khargone (West Nimar)"
+    },
+    {
+      "district_id": "DIST_IND_449",
+      "state": "MADHYA PRADESH",
+      "district": "Hoshangabad"
+    },
+    {
+      "district_id": "DIST_IND_466",
+      "state": "MADHYA PRADESH",
+      "district": "Khandwa (East Nimar)"
+    },
+    {
+      "district_id": "DIST_IND_489",
+      "state": "GUJARAT",
+      "district": "The Dangs"
+    },
+    {
+      "district_id": "DIST_IND_500",
+      "state": "MAHARASHTRA",
+      "district": "Buldana"
+    },
+    {
+      "district_id": "DIST_IND_507",
+      "state": "MAHARASHTRA",
+      "district": "Gondiya"
+    },
+    {
+      "district_id": "DIST_IND_523",
+      "state": "MAHARASHTRA",
+      "district": "Bid"
+    },
+    {
+      "district_id": "DIST_IND_537",
+      "state": "ANDHRA PRADESH",
+      "district": "Rangareddy"
+    },
+    {
+      "district_id": "DIST_IND_538",
+      "state": "ANDHRA PRADESH",
+      "district": "Mahbubnagar"
+    },
+    {
+      "district_id": "DIST_IND_544",
+      "state": "ANDHRA PRADESH",
+      "district": "Visakhapatnam"
+    },
+    {
+      "district_id": "DIST_IND_550",
+      "state": "ANDHRA PRADESH",
+      "district": "Sri Potti Sriramulu Nellore"
+    },
+    {
+      "district_id": "DIST_IND_555",
+      "state": "KARNATAKA",
+      "district": "Belgaum"
+    },
+    {
+      "district_id": "DIST_IND_556",
+      "state": "KARNATAKA",
+      "district": "Bagalkot"
+    },
+    {
+      "district_id": "DIST_IND_565",
+      "state": "KARNATAKA",
+      "district": "Bellary"
+    },
+    {
+      "district_id": "DIST_IND_567",
+      "state": "KARNATAKA",
+      "district": "Davanagere"
+    },
+    {
+      "district_id": "DIST_IND_568",
+      "state": "KARNATAKA",
+      "district": "Shimoga"
+    },
+    {
+      "district_id": "DIST_IND_570",
+      "state": "KARNATAKA",
+      "district": "Chikmagalur"
+    },
+    {
+      "district_id": "DIST_IND_571",
+      "state": "KARNATAKA",
+      "district": "Tumkur"
+    },
+    {
+      "district_id": "DIST_IND_572",
+      "state": "KARNATAKA",
+      "district": "Bangalore"
+    },
+    {
+      "district_id": "DIST_IND_577",
+      "state": "KARNATAKA",
+      "district": "Mysore"
+    },
+    {
+      "district_id": "DIST_IND_578",
+      "state": "KARNATAKA",
+      "district": "Chamarajanagar"
+    },
+    {
+      "district_id": "DIST_IND_579",
+      "state": "KARNATAKA",
+      "district": "Gulbarga"
+    },
+    {
+      "district_id": "DIST_IND_583",
+      "state": "KARNATAKA",
+      "district": "Bangalore Rural"
+    },
+    {
+      "district_id": "DIST_IND_587",
+      "state": "LAKSHADWEEP",
+      "district": "Lakshadweep"
+    },
+    {
+      "district_id": "DIST_IND_604",
+      "state": "TAMIL NADU",
+      "district": "Kancheepuram"
+    },
+    {
+      "district_id": "DIST_IND_607",
+      "state": "TAMIL NADU",
+      "district": "Viluppuram"
+    },
+    {
+      "district_id": "DIST_IND_627",
+      "state": "TAMIL NADU",
+      "district": "Thoothukkudi"
+    },
+    {
+      "district_id": "DIST_IND_640",
+      "state": "ANDAMAN AND NICOBAR ISLANDS",
+      "district": "South Andaman"
+    }
+  ],
+  "unmatched_gis_districts": [
+    {
+      "state": "MN",
+      "district": "Kamjong"
+    },
+    {
+      "state": "MP",
+      "district": "Narmadapuram"
+    },
+    {
+      "state": "MP",
+      "district": "Khargone"
+    },
+    {
+      "state": "UP",
+      "district": "Amethi"
+    },
+    {
+      "state": "UP",
+      "district": "Sambhal"
+    },
+    {
+      "state": "UP",
+      "district": "Shamli"
+    },
+    {
+      "state": "UP",
+      "district": "Hapur"
+    },
+    {
+      "state": "WB",
+      "district": "24 Paraganas North"
+    },
+    {
+      "state": "WB",
+      "district": "24 Paraganas South"
+    },
+    {
+      "state": "WB",
+      "district": "Purba Bardhaman"
+    },
+    {
+      "state": "WB",
+      "district": "Coochbehar"
+    },
+    {
+      "state": "WB",
+      "district": "Darjeeling"
+    },
+    {
+      "state": "WB",
+      "district": "Dinajpur Dakshin"
+    },
+    {
+      "state": "AN",
+      "district": "South Andamans"
+    },
+    {
+      "state": "AP",
+      "district": "Spsr Nellore"
+    },
+    {
+      "state": "AP",
+      "district": "Visakhapatanam"
+    },
+    {
+      "state": "AR",
+      "district": "Longding"
+    },
+    {
+      "state": "AR",
+      "district": "Kra Daadi"
+    },
+    {
+      "state": "AR",
+      "district": "Namsai"
+    },
+    {
+      "state": "AR",
+      "district": "Siang"
+    },
+    {
+      "state": "AR",
+      "district": "Kamle"
+    },
+    {
+      "state": "AR",
+      "district": "Lower Siang"
+    },
+    {
+      "state": "AR",
+      "district": "Pakke Kessang"
+    },
+    {
+      "state": "AR",
+      "district": "Leparada"
+    },
+    {
+      "state": "AR",
+      "district": "Shi Yomi"
+    },
+    {
+      "state": "AS",
+      "district": "Kamrup Metro"
+    },
+    {
+      "state": "AS",
+      "district": "Biswanath"
+    },
+    {
+      "state": "AS",
+      "district": "Majuli"
+    },
+    {
+      "state": "AS",
+      "district": "South Salmara Mancachar"
+    },
+    {
+      "state": "AS",
+      "district": "Charaideo"
+    },
+    {
+      "state": "AS",
+      "district": "Hojai"
+    },
+    {
+      "state": "AS",
+      "district": "West Karbi Anglong"
+    },
+    {
+      "state": "CG",
+      "district": "Dantewada"
+    },
+    {
+      "state": "CG",
+      "district": "Kanker"
+    },
+    {
+      "state": "CG",
+      "district": "Kabirdham"
+    },
+    {
+      "state": "CG",
+      "district": "Korea"
+    },
+    {
+      "state": "CG",
+      "district": "Sukma"
+    },
+    {
+      "state": "CG",
+      "district": "Kondagaon"
+    },
+    {
+      "state": "CG",
+      "district": "Baloda Bazar"
+    },
+    {
+      "state": "CG",
+      "district": "Gariyaband"
+    },
+    {
+      "state": "CG",
+      "district": "Balod"
+    },
+    {
+      "state": "CG",
+      "district": "Mungeli"
+    },
+    {
+      "state": "CG",
+      "district": "Surajpur"
+    },
+    {
+      "state": "CG",
+      "district": "Bemetara"
+    },
+    {
+      "state": "CG",
+      "district": "Gaurella Pendra Marwahi"
+    },
+    {
+      "state": "DL",
+      "district": "South East"
+    },
+    {
+      "state": "DL",
+      "district": "Shahdara"
+    },
+    {
+      "state": "GJ",
+      "district": "Dang"
+    },
+    {
+      "state": "GJ",
+      "district": "Chhotaudepur"
+    },
+    {
+      "state": "GJ",
+      "district": "Mahisagar"
+    }
+  ],
+  "fuzzy_suggestions_report_only": [
+    {
+      "census_district": "Sahibzada Ajit Singh Nagar",
+      "census_state": "PUNJAB",
+      "suggested_gis_district": "S.A.S Nagar",
+      "suggested_gis_state": "PB",
+      "similarity_score": 0.9
+    },
+    {
+      "census_district": "Uttarkashi",
+      "census_state": "UTTARAKHAND",
+      "suggested_gis_district": "Uttar Kashi",
+      "suggested_gis_state": "UK",
+      "similarity_score": 0.952
+    },
+    {
+      "census_district": "Rudraprayag",
+      "census_state": "UTTARAKHAND",
+      "suggested_gis_district": "Rudra Prayag",
+      "suggested_gis_state": "UK",
+      "similarity_score": 0.957
+    },
+    {
+      "census_district": "Udham Singh Nagar",
+      "census_state": "UTTARAKHAND",
+      "suggested_gis_district": "Udam Singh Nagar",
+      "suggested_gis_state": "UK",
+      "similarity_score": 0.938
+    },
+    {
+      "census_district": "Sant Kabir Nagar",
+      "census_state": "UTTAR PRADESH",
+      "suggested_gis_district": "Sant Kabeer Nagar",
+      "suggested_gis_state": "UP",
+      "similarity_score": 0.909
+    },
+    {
+      "census_district": "Kushinagar",
+      "census_state": "UTTAR PRADESH",
+      "suggested_gis_district": "Kushi Nagar",
+      "suggested_gis_state": "UP",
+      "similarity_score": 0.952
+    },
+    {
+      "census_district": "Ribhoi",
+      "census_state": "MEGHALAYA",
+      "suggested_gis_district": "Ri Bhoi",
+      "suggested_gis_state": "ML",
+      "similarity_score": 0.923
+    },
+    {
+      "census_district": "Jaintia Hills",
+      "census_state": "MEGHALAYA",
+      "suggested_gis_district": "West Jaintia Hills",
+      "suggested_gis_state": "ML",
+      "similarity_score": 0.839
+    },
+    {
+      "census_district": "Kamrup Metropolitan",
+      "census_state": "ASSAM",
+      "suggested_gis_district": "Kamrup Metro",
+      "suggested_gis_state": "AS",
+      "similarity_score": 0.774
+    },
+    {
+      "census_district": "Darjiling",
+      "census_state": "WEST BENGAL",
+      "suggested_gis_district": "Darjeeling",
+      "suggested_gis_state": "WB",
+      "similarity_score": 0.842
+    },
+    {
+      "census_district": "Koch Bihar",
+      "census_state": "WEST BENGAL",
+      "suggested_gis_district": "Coochbehar",
+      "suggested_gis_state": "WB",
+      "similarity_score": 0.7
+    },
+    {
+      "census_district": "Barddhaman",
+      "census_state": "WEST BENGAL",
+      "suggested_gis_district": "Purba Bardhaman",
+      "suggested_gis_state": "WB",
+      "similarity_score": 0.72
+    },
+    {
+      "census_district": "Puruliya",
+      "census_state": "WEST BENGAL",
+      "suggested_gis_district": "Purulia",
+      "suggested_gis_state": "WB",
+      "similarity_score": 0.933
+    },
+    {
+      "census_district": "Haora",
+      "census_state": "WEST BENGAL",
+      "suggested_gis_district": "Howrah",
+      "suggested_gis_state": "WB",
+      "similarity_score": 0.727
+    },
+    {
+      "census_district": "Kodarma",
+      "census_state": "JHARKHAND",
+      "suggested_gis_district": "Koderma",
+      "suggested_gis_state": "JH",
+      "similarity_score": 0.857
+    },
+    {
+      "census_district": "Sahibganj",
+      "census_state": "JHARKHAND",
+      "suggested_gis_district": "Sahebganj",
+      "suggested_gis_state": "JH",
+      "similarity_score": 0.889
+    },
+    {
+      "census_district": "Purbi Singhbhum",
+      "census_state": "JHARKHAND",
+      "suggested_gis_district": "East Singhbum",
+      "suggested_gis_state": "JH",
+      "similarity_score": 0.963
+    },
+    {
+      "census_district": "Nabarangapur",
+      "census_state": "ORISSA",
+      "suggested_gis_district": "Nabarangpur",
+      "suggested_gis_state": "OD",
+      "similarity_score": 0.957
+    },
+    {
+      "census_district": "Koriya",
+      "census_state": "CHHATTISGARH",
+      "suggested_gis_district": "Korea",
+      "suggested_gis_state": "CG",
+      "similarity_score": 0.727
+    },
+    {
+      "census_district": "Kabeerdham",
+      "census_state": "CHHATTISGARH",
+      "suggested_gis_district": "Kabirdham",
+      "suggested_gis_state": "CG",
+      "similarity_score": 0.842
+    },
+    {
+      "census_district": "Khandwa (East Nimar)",
+      "census_state": "MADHYA PRADESH",
+      "suggested_gis_district": "East Nimar",
+      "suggested_gis_state": "MP",
+      "similarity_score": 0.714
+    },
+    {
+      "census_district": "The Dangs",
+      "census_state": "GUJARAT",
+      "suggested_gis_district": "Dang",
+      "suggested_gis_state": "GJ",
+      "similarity_score": 0.889
+    },
+    {
+      "census_district": "Buldana",
+      "census_state": "MAHARASHTRA",
+      "suggested_gis_district": "Buldhana",
+      "suggested_gis_state": "MH",
+      "similarity_score": 0.933
+    },
+    {
+      "census_district": "Gondiya",
+      "census_state": "MAHARASHTRA",
+      "suggested_gis_district": "Gondia",
+      "suggested_gis_state": "MH",
+      "similarity_score": 0.923
+    },
+    {
+      "census_district": "Rangareddy",
+      "census_state": "ANDHRA PRADESH",
+      "suggested_gis_district": "Ranga Reddy",
+      "suggested_gis_state": "TS",
+      "similarity_score": 0.952
+    },
+    {
+      "census_district": "Mahbubnagar",
+      "census_state": "ANDHRA PRADESH",
+      "suggested_gis_district": "Mahabubnagar",
+      "suggested_gis_state": "TS",
+      "similarity_score": 0.957
+    },
+    {
+      "census_district": "Visakhapatnam",
+      "census_state": "ANDHRA PRADESH",
+      "suggested_gis_district": "Visakhapatanam",
+      "suggested_gis_state": "AP",
+      "similarity_score": 0.963
+    },
+    {
+      "census_district": "Bagalkot",
+      "census_state": "KARNATAKA",
+      "suggested_gis_district": "Bagalkote",
+      "suggested_gis_state": "KA",
+      "similarity_score": 0.941
+    },
+    {
+      "census_district": "Bellary",
+      "census_state": "KARNATAKA",
+      "suggested_gis_district": "Ballari",
+      "suggested_gis_state": "KA",
+      "similarity_score": 0.714
+    },
+    {
+      "census_district": "Davanagere",
+      "census_state": "KARNATAKA",
+      "suggested_gis_district": "Davangere",
+      "suggested_gis_state": "KA",
+      "similarity_score": 0.947
+    },
+    {
+      "census_district": "Shimoga",
+      "census_state": "KARNATAKA",
+      "suggested_gis_district": "Shivamogga",
+      "suggested_gis_state": "KA",
+      "similarity_score": 0.824
+    },
+    {
+      "census_district": "Chikmagalur",
+      "census_state": "KARNATAKA",
+      "suggested_gis_district": "Chikkamagaluru",
+      "suggested_gis_state": "KA",
+      "similarity_score": 0.88
+    },
+    {
+      "census_district": "Tumkur",
+      "census_state": "KARNATAKA",
+      "suggested_gis_district": "Tumakuru",
+      "suggested_gis_state": "KA",
+      "similarity_score": 0.857
+    },
+    {
+      "census_district": "Bangalore",
+      "census_state": "KARNATAKA",
+      "suggested_gis_district": "Bagalkote",
+      "suggested_gis_state": "KA",
+      "similarity_score": 0.778
+    },
+    {
+      "census_district": "Chamarajanagar",
+      "census_state": "KARNATAKA",
+      "suggested_gis_district": "Chamarajanagara",
+      "suggested_gis_state": "KA",
+      "similarity_score": 0.966
+    },
+    {
+      "census_district": "Bangalore Rural",
+      "census_state": "KARNATAKA",
+      "suggested_gis_district": "Bengaluru Rural",
+      "suggested_gis_state": "KA",
+      "similarity_score": 0.8
+    },
+    {
+      "census_district": "Lakshadweep",
+      "census_state": "LAKSHADWEEP",
+      "suggested_gis_district": "Lakshadweep District",
+      "suggested_gis_state": "LD",
+      "similarity_score": 0.71
+    },
+    {
+      "census_district": "Kancheepuram",
+      "census_state": "TAMIL NADU",
+      "suggested_gis_district": "Kanchipuram",
+      "suggested_gis_state": "TN",
+      "similarity_score": 0.87
+    },
+    {
+      "census_district": "Viluppuram",
+      "census_state": "TAMIL NADU",
+      "suggested_gis_district": "Villupuram",
+      "suggested_gis_state": "TN",
+      "similarity_score": 0.9
+    },
+    {
+      "census_district": "South Andaman",
+      "census_state": "ANDAMAN AND NICOBAR ISLANDS",
+      "suggested_gis_district": "South Andamans",
+      "suggested_gis_state": "AN",
+      "similarity_score": 0.963
+    }
+  ]
+}

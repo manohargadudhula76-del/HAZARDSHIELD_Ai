@@ -1,0 +1,126 @@
+{
+  "master_dataset_summary": {
+    "analytical_level": "DISTRICT LEVEL (Baseline Census 2011 Backbone)",
+    "total_district_records": 640,
+    "unique_state_district_keys": 640,
+    "unique_district_ids": 640,
+    "has_duplicate_keys": false,
+    "master_csv_path": "datasets\\master\\master_habitations.csv",
+    "columns_count": 28,
+    "columns": [
+      "district_id",
+      "state",
+      "district",
+      "latitude",
+      "longitude",
+      "district_area_sq_km",
+      "population",
+      "population_density",
+      "average_rainfall",
+      "maximum_rainfall",
+      "annual_actual_rainfall",
+      "rainfall_departure_pct",
+      "heavy_rainfall_days",
+      "historical_disaster_count",
+      "historical_flood_count",
+      "historical_landslide_count",
+      "historical_cyclone_count",
+      "landslide_event_count",
+      "cyclone_track_count",
+      "cyclone_exposure_count",
+      "max_cyclone_wind",
+      "total_households",
+      "good_houses",
+      "livable_houses",
+      "dilapidated_houses",
+      "dilapidated_house_pct",
+      "hospital_count",
+      "hospital_bed_count"
+    ]
+  },
+  "domain_matching_rates": {
+    "census_gis_reconciliation": {
+      "census_district_count": 640,
+      "gis_district_count": 733,
+      "exact_matches_count": 0,
+      "alias_matches_count": 579,
+      "total_matched_count": 579,
+      "unmatched_census_count": 61,
+      "unmatched_gis_count": 160,
+      "census_gis_match_rate_pct": 90.47
+    },
+    "rainfall_domain": {
+      "total_raw_rows": 13818,
+      "aggregated_districts": 728
+    },
+    "housing_domain": {
+      "total_raw_rows": 1908,
+      "filtered_total_rows": 1908,
+      "aggregated_districts": 640
+    },
+    "disasters_domain": {
+      "total_raw_rows": 783,
+      "matched_districts": 602
+    },
+    "landslides_spatial": {
+      "total_landslide_points": 4000,
+      "spatially_mapped_points": 1368,
+      "unmapped_points": 2632,
+      "spatial_match_rate_pct": 34.2
+    },
+    "cyclones_spatial": {
+      "total_ibtracs_track_points": 62849,
+      "valid_coordinates_points": 62848,
+      "distance_threshold_km": 100.0,
+      "districts_exposed_count": 528
+    },
+    "infrastructure_domain": {
+      "total_raw_facilities": 30273,
+      "aggregated_districts": 584
+    },
+    "gis_domain": {
+      "total_gis_polygons": 579,
+      "unique_gis_districts": 579,
+      "projected_crs_used": "EPSG:7755 (India Albers Equal Area)"
+    }
+  },
+  "column_missing_value_pct": {
+    "district_id": 0.0,
+    "state": 0.0,
+    "district": 0.0,
+    "latitude": 9.53,
+    "longitude": 9.53,
+    "district_area_sq_km": 9.53,
+    "population": 0.0,
+    "population_density": 9.53,
+    "average_rainfall": 21.56,
+    "maximum_rainfall": 21.56,
+    "annual_actual_rainfall": 21.56,
+    "rainfall_departure_pct": 21.56,
+    "heavy_rainfall_days": 21.56,
+    "historical_disaster_count": 0.0,
+    "historical_flood_count": 0.0,
+    "historical_landslide_count": 0.0,
+    "historical_cyclone_count": 0.0,
+    "landslide_event_count": 0.0,
+    "cyclone_track_count": 0.0,
+    "cyclone_exposure_count": 0.0,
+    "max_cyclone_wind": 0.0,
+    "total_households": 0.16,
+    "good_houses": 0.16,
+    "livable_houses": 0.16,
+    "dilapidated_houses": 0.16,
+    "dilapidated_house_pct": 0.16,
+    "hospital_count": 0.0,
+    "hospital_bed_count": 0.0
+  },
+  "validation_checks": {
+    "one_row_per_district": true,
+    "valid_latitude_range": true,
+    "valid_longitude_range": true,
+    "non_negative_population": true,
+    "non_negative_counts": true,
+    "no_cartesian_duplication": true
+  },
+  "ready_for_phase_3": true
+}
